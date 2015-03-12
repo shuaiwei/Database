@@ -1,0 +1,16 @@
+
+87050702
+
+Brain 8703; 109 ( Pt 5):845-83
+
+Adult; Aged; Aged, 80 and over; Cognition/PH; Corpus Striatum/PH; Female; Frontal Lobe/*PP; Human; Laterality/PH; Male; Memory/PH; Mental Processes/*PH; Middle Age; Neuropsychological Tests; Parkinson Disease/*PP; Psychomotor Performance; Support, Non-U.S. Gov't.
+
+Frontal lobe dysfunction in Parkinson's disease. The cortical focus of neostriatal outflow.
+
+JOURNAL ARTICLE.
+
+This study investigates the hypothesis that, as a consequence of Parkinson's disease, disturbed caudate outflow will lead to deficits in cognitive functions dependent upon the integrity of the prefrontal cortex, the cortical focus of caudatofugal signals. Since Parkinson's disease also involves lesions in extra-striatal midbrain cells which reduce the extrinsic supply of dopamine to this cortical region, such functions are at double risk. Forty nondemented parkinsonian patients were drawn from a pool of 100 consecutive patients and matched with 40 normal control subjects according to age, education, IQ, and sex. All patients were quantitatively rated on neurological indices of disease. Neuropsychological assessment of the patient and normal groups included tests of general intelligence, psychomotor skills, memory, visuospatial and executive functions. No global cognitive decline was observed in the parkinsonian group. Moreover, memory and visuospatial abilities were generally intact. A small cluster of deficits emerged, interpreted as reflecting impairment in the ability to spontaneously generate efficient strategies when relying on self-directed task-specific planning. In addition, several tests thought to be sensitive to frontal lobe function distinguished patients with symptoms strongly lateralized to the right versus left side of the body. Deficits in strategic planning were later investigated in relation to severity of disease and to patient attributes including IQ and age, both of which were relevant to performance on specific tasks. Results were compared with previous investigations in parkinsonian patients and discussed from the perspective of both animal and human studies involving damage to the cerebral cortex and basal ganglia. As the prefrontal cortex is thought to play a crucial role in self-directed behavioural planning, the validity of an outflow model in predicting the consequences of caudate nucleus dysfunction was supported.
+
+Taylor AE; Saint-Cyr JA; Lang AE.
+
+

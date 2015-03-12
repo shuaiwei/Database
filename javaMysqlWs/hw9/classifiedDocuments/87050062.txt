@@ -1,0 +1,16 @@
+
+87050062
+
+Blood 8703; 68(6):1407-10
+
+Animal; Blood Proteins/*TO; Cytotoxicity, Immunologic; Drug Synergism; Human; Hydrogen Peroxide/TO; Kinetics; Mice; Neoplasms, Experimental/*IM; Neutrophils/*PH; Rabbits; Species Specificity; Support, U.S. Gov't, Non-P.H.S.; Support, U.S. Gov't, P.H.S..
+
+In vitro tumor cell cytolysis mediated by peptide defensins of human and rabbit granulocytes.
+
+JOURNAL ARTICLE.
+
+We examined the activity of defensins, cysteine-rich cationic peptides that are abundant in the cytoplasmic granules of human and rabbit granulocytes, against various tumor targets. The three human defensins, HNP-1, HNP-2, and HNP-3, lysed human and murine targets in chromium release and dye exclusion assays. Defensin-mediated tumor cell lysis was concentration-dependent, inhibited by serum, and dependent on temperature-sensitive events. Lysis was first detected by three hours of incubation and it reached a plateau between eight and 14 hours. In vitro exposure of murine teratocarcinoma cells to HNP 1-3 abrogated their oncogenicity in vivo. Nonmalignant target cells were also susceptible to defensin-mediated lysis. Four rabbit granulocyte defensins exerted marked (NP-1, NP-2) or moderate (NP-3a, NP-3b) cytotoxic activity, whereas defensin NP-5 was not cytotoxic. When tumor cells were incubated with human defensins in combination with hydrogen peroxide, synergistic cytotoxicity was detected. As defensins are released from granulocytes by various stimuli, their release could contribute to extracellular cytotoxicity which is independent of reactive oxygen intermediates.
+
+Lichtenstein A; Ganz T; Selsted ME; Lehrer RI.
+
+

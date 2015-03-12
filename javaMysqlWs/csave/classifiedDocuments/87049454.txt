@@ -1,0 +1,16 @@
+
+87049454
+
+Br J Anaesth 8703; 58(11):1210-3
+
+Anesthesia, Inhalation; Atracurium/*ME; Child; Child, Preschool; Human; Infant; Isoflurane; Isoquinolines/BL; Kinetics; Liver/PP; Liver Diseases/BL/*ME/PP; Nitrous Oxide; Support, Non-U.S. Gov't.
+
+Pharmacokinetics of atracurium in anaesthetized infants and children.
+
+JOURNAL ARTICLE.
+
+The pharmacokinetics of atracurium were studied in infants and children anaesthetized with isoflurane and nitrous oxide in oxygen. There were no significant differences in volume of distribution (area) (139 v. 152 ml kg-1), clearance (5.1 v. 5.3 ml kg-1 min-1), T1/2 alpha (2.1 v. 2.0 min), or T1/2 beta (19.1 v. 20.3 min) between children with normal hepatic and renal function and those with moderately impaired hepatic function presenting for hepatic transplantation. There were significant differences in volume of distribution (area) (176 v. 139 ml kg-1) and in clearance of atracurium (9.1 v. 5.1 ml kg-1 min-1) between infants and children with normal excretory function. In infants the clearance of atracurium in ml m-2 min-1 (153 v. 133) tended to be greater and the T1/2 alpha and T1/2 beta tended to be shorter (1.0 v. 2.0 and 13.6 v. 19.1) than in children with normal excretory function; however, these trends did not reach statistical significance. Plasma laudanosine concentration was around 100 ng ml-1 greater in patients with liver disease than in normal children from 15-45 min following a bolus of atracurium 0.5 mg kg-1.
+
+Brandom BW; Stiller RL; Cook DR; Woelfel SK; Chakravorti S; Lai A.
+
+

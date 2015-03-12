@@ -1,0 +1,16 @@
+
+87052489
+
+Clin Pharmacol Ther 8703; 40(6):634-42
+
+Adolescence; Adult; Chromatography, Gas; Drug Interactions; Human; Kinetics; Male; Platelet Aggregation/*DE; Prostaglandin Endoperoxides, Synthetic/PD; Random Allocation; Thromboxane A2/*AA/*AI/BL/PD.
+
+Quantitation of drug levels and platelet receptor blockade caused by a thromboxane antagonist.
+
+JOURNAL ARTICLE.
+
+SQ 28,668 is a structural analog of thromboxane A2. It inhibits the effects of thromboxane in vitro. Fifty-six healthy male subjects were given either placebo or three equal daily doses of SQ 28,668 ranging from 25 to 1200 mg. Plasma drug concentrations increased in a dose-dependent manner. The shape of the plasma drug concentration-time curve was consistent with enterohepatic recirculation. The effects of SQ 28,668 on ex vivo platelet aggregation suggested that SQ 28,668 is a specific competitive antagonist of thromboxane A2 with a platelet receptor dissociation constant (estimated by Schild analysis) of about 19 nmol/L. Approximately 94% occupation of thromboxane receptors by SQ 28,668 was required to produce a small but measurable increase of the template bleeding time. Dose-ranging studies of antithrombotic drugs are difficult and expensive. For this reason, a method was developed that allows estimation of the dose of a thromboxane receptor antagonist that would be expected to be therapeutically equivalent to a given dose of aspirin.
+
+Friedhoff LT; Manning J; Funke PT; Ivashkiv E; Tu J; Cooper W; Willard DA.
+
+

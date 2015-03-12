@@ -1,0 +1,16 @@
+
+87051242
+
+Cancer 8703; 58(12):2585-8
+
+Aged; Animal; Cats; Diarrhea/CI; Drug Evaluation; Female; Head and Neck Neoplasms/*DT; Human; Male; Middle Age; Mitoguazone/TO/*TU; Nausea/CI; Support, U.S. Gov't, P.H.S.; Vomiting/CI.
+
+Phase II trial of methylglyoxal bis (guanylhydrazone) (MGBG) in advanced head and neck cancer.
+
+JOURNAL ARTICLE.
+
+Methylglyoxal bis (guanylhydrazone) (MGBG) is an inhibitor of polyamine synthesis. In vitro studies demonstrate the accumulation of some tumor cells in S and G2 phases of the cell cycle. Nineteen patients with advanced head and neck cancer were entered in a Phase II trial of MGBG. MGBG, 500 mg/M2, was administered as a brief intravenous infusion weekly for 4 weeks, then every 2 weeks. Dose modifications were based on cumulative toxicity after 2 weekly treatments. All but three patients had prior exposure to chemotherapy for disease recurrence. Of 17 patients evaluable for response and toxicity, one brief partial response was observed. The most common toxicities were mild to moderate nausea, vomiting, diarrhea, and stomatitis. Myelosuppression occurred in three patients. Dose modifications were required in four patients; a maximum dose of 700 mg/M2 was tolerated. The results of four other Phase II single and combination chemotherapy trials of MGBG in head and neck cancer are reviewed. The single agent response rate in 59 patients was 22% (range, 6%-41%). The poor response rate observed in this trial was similar to that in other trials in which a heavily pretreated group of patients was evaluated. It is concluded that single agent MGBG is not a useful drug in heavily pretreated recurrent disease patients. However, because of its biochemical effects, further testing in combination with cycle specific agents and in larger numbers of patients with minimal prior treatment may be warranted.
+
+Forastiere AA; Natale RB; Wheeler RR.
+
+

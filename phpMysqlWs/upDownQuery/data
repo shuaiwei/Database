@@ -1,0 +1,9 @@
+CategoryID	CategoryName	Description	Picture
+1	Beverages	Softdrink coffees teas beers ales	NULL
+2	Condiments	Sweet_and_savory_sauces relishes spreads and seasonings	NULL
+3	Confections	Desserts candies and sweet_breads	NULL
+4	Dairy Products	Cheeses	NULL
+5	Grains_Cereals	Breads crackers pasta and cereal	NULL
+6	Meat_Poultry	Prepared meats	NULL
+7	Produce	Dried fruit and bean curd	NULL
+8	Seafood	Seaweed and fish	NULL

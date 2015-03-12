@@ -1,0 +1,16 @@
+
+87050708
+
+Brain 8703; 109 ( Pt 5):969-85
+
+Adult; Antibodies, Viral/AN; Environment; Female; Human; Leukocyte Count; Longitudinal Studies; Male; Middle Age; Multiple Sclerosis/*GE/IM; Suppressor Cells/*.
+
+Suppressor T cells in family members of patients with multiple sclerosis.
+
+JOURNAL ARTICLE.
+
+Previous serial measurements of lymphocyte subpopulations in individuals with multiple sclerosis (MS) have demonstrated periodic reductions in the number of OKT8 positive (T8+) cells. In this longitudinal study, involving twice monthly samples from each participant and carried out in two phases lasting at least six and three months respectively, we have confirmed that fluctuations in T8+ cells occur in patients with MS and also found a significant reduction in this lymphocyte subpopulation in patients' spouses but not their siblings, compared with unrelated controls. The changes observed in spouses were related in time to those occurring in patients on 10/13 occasions from 5/9 families; no temporal relationship occurred in the remainder. Taking two or more low T8+ values as significant, 12/13 patients, 7/9 spouses, 6/13 siblings and 4/13 controls (chi 2 = 12.5; P less than 0.01) were abnormal at some stage. Our results provide indirect evidence for the role of environmental factors in determining certain immunological abnormalities present in patients with MS and illustrate the role of family studies in determining the specificity of these changes to the disease.
+
+Hughes PJ; Kirk PF; Compston DA.
+
+

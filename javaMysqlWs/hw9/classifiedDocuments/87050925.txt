@@ -1,0 +1,16 @@
+
+87050925
+
+Burns Incl Therm Inj 8703; 12(7):496-501
+
+Animal; Electric Injuries/*ET/MO; Human; Lightning/*; Mice; Rats; Rats, Inbred Strains; Support, Non-U.S. Gov't.
+
+Lightning injury caused by discharges accompanying flashovers--a clinical and experimental study of death and survival.
+
+JOURNAL ARTICLE.
+
+During the 17 years preceding March 1985, 140 patients sustained lightning injuries caused by 44 thunderbolts. Fifty patients showed evidence of current flow through their bodies. These 50 victims were classified into two groups, the first consisting of 9 victims who showed rupture of their clothes or linear superficial dermal burns along their whole bodies from head to feet, indicating the occurrence of surface flashovers. The remaining 41 patients showed no evidence of this flash effect. It is noteworthy that in the first group 5 of the 9 survived, whereas in the second group only 6 among 41 survived. The result indicates that when a flashover occurs along the whole body, the probability of survival is higher than 50 per cent. The conditions which determine death or survival were investigated experimentally, imposing artificial lightning voltage impulses on rats and developing flashovers on them. The rats survived when the voltage drop caused by flashover occurred immediately after the peak point, and the current waveform exhibited a sharp peak. In contrast, the rats were killed when the voltage drop caused by flashover was delayed by more than 20 microseconds, and the current waveform showed a blunt cone shape. It has been concluded that a fast flashover appreciably diminishes the energy dissipation within the body and consequently results in survival.
+
+Ohashi M; Kitagawa N; Ishikawa T.
+
+

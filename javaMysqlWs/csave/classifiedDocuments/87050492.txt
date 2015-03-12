@@ -1,0 +1,16 @@
+
+87050492
+
+Br J Rheumatol 8703; 25(4):376-9
+
+Azathioprine/AE/TU; Chlorambucil/AE/TU; Connective Tissue Diseases/*DT/GE; Cyclophosphamide/AE/TU; Drug Resistance; Human; Hypoxanthine Phosphoribosyltransferase/*GE; Immunosuppressive Agents/*AE/TU; Lymphocytes/*DE/EN; Mutation/*.
+
+Thioguanine-resistant mutations induced by cytotoxic drugs in lymphocytes of patients with connective tissue diseases.
+
+JOURNAL ARTICLE.
+
+Cells with mutations at the hypoxanthine-guanine phosphoribosyl transferase (HPRT) locus may be detected in vitro by their resistance to the toxic effects of thioguanine. We have assessed HPRT mutants in peripheral blood lymphocytes of patients with connective tissue diseases who have been treated for long periods with cytotoxic drugs. The results from patients treated with cyclophosphamide were abnormal suggesting the presence of drug-induced mutations. The results from patients treated with chlorambucil or azathioprine did not differ from controls--either these drugs have not induced mutations or, more likely, the technique is not sufficiently sensitive to detect them. These possibilities are discussed. Specific mutations induced by cytotoxic drugs in patients with connective tissue diseases have not been previously recorded.
+
+Palmer RG; Smith-Burchnell CA; Dore CJ; Denman AM.
+
+

@@ -1,0 +1,17 @@
+
+87052058
+
+Circulation 8703; 74(6):1280-9
+
+Comparative Study; Death, Sudden; Electrocardiography/MT; Follow-Up Studies; Heart Ventricle/PP/RI; Human; Membrane Potentials; Monitoring, Physiologic/MT; Myocardial Infarction/CO/DI/*PP; Prognosis; Prospective Studies; Risk; Stroke Volume; Support, Non-U.S. Gov't; Tachycardia/DI/PP; Time Factors; Ventricular Fibrillation/DI/PP.
+
+Late potentials detected after myocardial infarction: natural history and prognostic significance.
+
+JOURNAL ARTICLE.
+
+The risk of developing spontaneous ventricular tachycardia (VT) and/or sudden death ( arrhythmic events ) was prospectively assessed in 165 patients who survived acute myocardial infarction. Signal-averaged electrocardiograms (ECGs) were performed before hospital discharge and then serially at regular intervals over the following year. In addition, 24 hr Holter monitoring was performed and left ventricular ejection fraction was determined. Sixty-five patients (group 1) had abnormal signal-averaged ECGs (voltage in the last 40 msec of the filtered QRS less than 20 microV or filtered QRS duration greater than 120 msec), 92 had normal signal-averaged ECGs (group 2), and eight had bundle branch block (excluded from analysis). In group 1, spontaneous normalization of the voltage in the last 40 msec of the QRS complex occurred in 30% of patients after 12 months, although total filtered QRS duration did not change overall. During follow-up of up to 20 months (median 11), seven patients died suddenly and six presented again with spontaneous, symptomatic VT. Eleven of 65 (17%) group 1 patients had an arrhythmic event compared with one of 92 patients (1%) in group 2 (p less than .001). The sensitivity of the signal-averaged ECG as a predictor of arrhythmic events was 92% with a specificity of 62%. Patients with subsequent arrhythmic events had considerably lower voltage in the last 40 msec of the QRS (11.0 +/- 8.3 vs 32.0 +/- 21.9 microV; p less than .001) than those without such events, and longer filtered QRS complexes (121 +/- 14 vs 105 +/- 12 msec; p less than .001). Multivariate logistic regression determined that the signal-averaged ECG provided independent prognostic information from the presence of complex ventricular ectopy and the degree of left ventricular dysfunction assessed at the time of hospital discharge. Signal-averaged ECGs provide important prognostic information in identifying patients at risk of arrhythmic events after myocardial infarction. Dynamic changes in the terminal QRS voltage are observed 
+during the first year after myocardial infarction.
+
+Kuchar DL; Thorburn CW; Sammel NL.
+
+

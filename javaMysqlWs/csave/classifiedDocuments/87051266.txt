@@ -1,0 +1,16 @@
+
+87051266
+
+Cancer 8703; 58(12):2726-35
+
+Age Factors; Child; Child, Preschool; Denmark; Female; Human; Male; Neuroblastoma/*MO/TH; Prognosis; Regression Analysis; Sex Factors.
+
+Prognostic factors in neuroblastomas treated in Denmark from 1943 to 1980. A statistical estimate of prognosis based on 253 cases.
+
+JOURNAL ARTICLE.
+
+Multivariate analysis on an unselected patient population consisting of all 253 children treated for neuroblastoma in Denmark during 1943 to 1980 shows that stage, age, and treatment given are independent prognostic variables. Calendar year of diagnosis, sex of the patient, and site of primary tumor were not significant prognostic factors. Further analysis shows that multimodal treatment with surgery, irradiation, and chemotherapy, especially in patients older than 1 year of age with Stage II disease, has influenced the survival significantly. The fact that age at diagnosis and the administration of chemotherapy have independent prognostic significance can be explained by the theory that all neuroblastomas are virtually congenital; therefore, the difference in age at diagnosis largely reflects the difference in growth rates of the tumor. Thus, according to this theory, age may be a measure of the probability of micrometastases in addition to the clinical extent or stage of the disease, as it represents the duration of the disease. Additional chemotherapy may thus have eradicated these micrometastases in the older children, since the age influence on Stage II disease disappeared when multimodal treatment was given in this study. The implications for treatment policy are discussed in view of this theory.
+
+Carlsen NL; Christensen IJ; Schroeder H; Bro PV; Erichsen G; Hamborg-Pedersen B; Jensen KB; Nielsen OH.
+
+

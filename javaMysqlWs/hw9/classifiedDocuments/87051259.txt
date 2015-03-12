@@ -1,0 +1,16 @@
+
+87051259
+
+Cancer 8703; 58(12):2680-5
+
+Adolescence; Adult; Aged; Blood Proteins; Female; Human; Lipids/*BL; Liver Neoplasms/SC; Lymphatic Metastasis; Male; Middle Age; Neoplasm Metastasis; Neoplasms/*BL; Sialic Acids/*BL; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..
+
+Total and lipid-associated serum sialic acid levels in cancer patients with different primary sites and differing degrees of metastatic involvement.
+
+JOURNAL ARTICLE.
+
+Serum total sialic acid (TSA) and lipid-associated sialic acid (LASA) levels have drawn considerable interest because of carbohydrate aberrations in malignant cells. The current investigation determined the TSA, LASA, total protein (TP), and TSA/TP values for 171 cancer patients with various primary sites and differing degrees of metastatic disease, 102 patients with nonmalignant diseases (pathologic controls), and 42 normal individuals. Data analysis indicated significant (p less than 0.01) increases in the mean (+/- SD) TSA and TSA/TP values in the cancer patients (78.1 +/- 19.2 mg/dl and 12.4 +/- 3.8 mg/g, respectively) and in the pathologic controls (76.0 +/- 7.5 mg/dl and 11.6 +/- 2.5 mg/g) when compared to the normal controls (67.3 +/- 7.1 mg/dl and 9.0 +/- 1.1 mg/g), and a significant decrease in the mean TP values in the cancer patients (6.4 +/- 1.1 g/dl) and pathologic controls (6.6 +/- 1.1 g/dl) when compared to normal controls (7.5 +/- 0.5 g/dl). No significant difference was observed between groups in LASA values. Further analysis of the data in patient subgroups based on the tissue involved, specific disease, or severity of the malignancy indicated that the lack of specificity of the markers was due primarily to restricted subgroups and that the sensitivity of TSA and TSA/TP increased as the malignancy became more severe. The results show that TSA/TP was the most useful of the markers tested for detecting malignancies. This marker should prove useful for monitoring malignant disease recurrence and/or progression and for evaluating the effectiveness of various therapeutic approaches.
+
+Plucinsky MC; Riley WM; Prorok JJ; Alhadeff JA.
+
+

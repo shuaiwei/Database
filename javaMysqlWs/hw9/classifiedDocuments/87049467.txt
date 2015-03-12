@@ -1,0 +1,16 @@
+
+87049467
+
+Br J Anaesth 8703; 58(11):1285-9
+
+Adult; Atracurium/*AI; Comparative Study; Edrophonium/*PD; Human; Middle Age; Muscle Contraction/DE; Neostigmine/*PD; Neuromuscular Blocking Agents/*AI; Time Factors; Vecuronium/*AI.
+
+Antagonism of profound neuromuscular blockade induced by vecuronium or atracurium. Comparison of neostigmine with edrophonium.
+
+JOURNAL ARTICLE.
+
+The effectiveness of neostigmine 0.07 mg kg-1 and edrophonium 0.8 mg kg-1 as antagonists of profound neuromuscular blockade induced by vecuronium 0.1 mg kg-1 or atracurium 0.5 mg kg-1 was studied in 59 healthy patients. The antagonists were administered 5 min after total ablation of the twitch response and the end-point of recovery was a train-of-four ratio of 70%. In 30 patients given vecuronium the mean time to reach this point (duration TOF70) was 66.7 min in the control group (no antagonist), 43.5 min in the group given neostigmine and 59.8 min in the group given edrophonium. The duration TOF70 was shorter in the neostigmine group than in the control (P less than 0.01) and edrophonium (P less than 0.01) groups. The duration TOF70 did not differ from control in the edrophonium group. In 29 patients given atracurium, the durations TOF70 were 66.4, 44.1 and 54.9 min in the control, neostigmine and edrophonium groups, respectively. The durations TOF70 in the neostigmine (P less than 0.01) and edrophonium (P less than 0.01), groups were shorter than control. The duration TOF70 of the neostigmine group was shorter than in the edrophonium group (P less than 0.01). These results show that profound neuromuscular blockade cannot be rapidly antagonized by either of these two agents, but if reversal is required under these circumstances, neostigmine would be the more effective drug.
+
+Caldwell JE; Robertson EN; Baird WL.
+
+

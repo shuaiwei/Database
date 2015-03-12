@@ -1,0 +1,16 @@
+
+87052451
+
+Clin Orthop 8703;  (213):84-91
+
+Animal; Anti-Inflammatory Agents, Non-Steroidal/AE/*TU; Atrophy/ME; Cartilage, Articular/*DE/ME/PA; Dogs; Extracellular Matrix/ME; Hindlimb; Human; Immobilization; In Vitro; Inflammation/DT; Osteoarthritis/*DT/ME/PA; Pain/DT; Proteoglycans/ME; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Synovial Fluid/ME.
+
+Nonsteroidal antiinflammatory drugs in treatment of osteoarthritis.
+
+JOURNAL ARTICLE.
+
+It is clear that some synovial inflammation occurs in joints affected by osteoarthritis (OA) and it is well recognized that many patients with OA experience a decrease in pain and joint stiffness following administration of salicylates or other nonsteroidal antiinflammatory drugs (NSAIDs). However, neither the extent to which synovitis contributes to the cartilage breakdown in OA nor the effects of chronic administration of NSAIDs on the natural history of OA in humans is known. Recent studies indicate that several NSAIDs, including salicylates, suppress proteoglycan synthesis in articular cartilage in vitro. The effect on OA cartilage is more marked than that on normal cartilage. Other studies show that salicylate feeding may suppress proteoglycan metabolism in degenerating cartilage in vivo, aggravating the decrease in proteoglycan content caused by the disease itself. However, no effect of salicylates on normal articular cartilage has been observed in vivo. In damaged cartilage the magnitude of NSAID-induced suppression of proteoglycan metabolism appears to be related inversely to the proteoglycan content of the tissue. In addition, the NSAIDs used in treatment of arthritis today may differ with respect to their in vivo effects on articular cartilage metabolism due, in part, to differences between the molar concentrations of these drugs in synovial fluid.
+
+Brandt KD; Slowman-Kovacs S.
+
+

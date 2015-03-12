@@ -1,0 +1,16 @@
+
+87050700
+
+Brain 8703; 109 ( Pt 5):1043-58
+
+Adult; Child; Electromyography; Female; Human; Male; Middle Age; Movement/*; Muscle Spasticity/*PP; Muscles/PP; Reflex, Abnormal/PP; Reflex, Stretch/*; Support, U.S. Gov't, Non-P.H.S.; Support, U.S. Gov't, P.H.S..
+
+Movement deficits caused by hyperexcitable stretch reflexes in spastic humans.
+
+JOURNAL ARTICLE.
+
+Spastic patients were instructed to make accurate, rapid ankle dorsiflexion and plantarflexion movements over different distances to a target. Ankle position and surface electromyograms (EMGs) from tibialis anterior (TA) and soleus (SOL) muscles were recorded. In 3 of 8 spastic patients tested, dorsiflexion evoked velocity-dependent activation of the antagonist (SOL) muscle which impeded the movement to the extent that the limb unintentionally reversed movement direction. We propose that this activation is reflex in origin since it is tightly synchronized, has a large peak amplitude, occurs about 50 ms after the initiation of the movement, and is velocity dependent. One of the 3 patients who had reflex-induced antagonist activation in dorsiflexion also demonstrated sustained clonus during plantarflexion. This usually occurred only if the target had been overshot so that the return of the limb stretched the soleus muscle and triggered clonus. We conclude that in some patients, hyperactive stretch reflexes cause movement deficits.
+
+Corcos DM; Gottlieb GL; Penn RD; Myklebust B; Agarwal GC.
+
+

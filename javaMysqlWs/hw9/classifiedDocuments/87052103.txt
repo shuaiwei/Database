@@ -1,0 +1,16 @@
+
+87052103
+
+Circulation 8703; 74(6 Pt 2):IV75-9
+
+Animal; Bicarbonates/*TU; Dogs; Resuscitation/*MT; Sodium/*TU; Support, U.S. Gov't, P.H.S.; Ventricular Fibrillation/*TH.
+
+Failure of sodium bicarbonate to improve resuscitation from ventricular fibrillation in dogs.
+
+JOURNAL ARTICLE.
+
+To determine the value of sodium bicarbonate in resuscitation from ventricular fibrillation and the prevention of spontaneous refibrillation, sodium bicarbonate (1 meq/kg) or placebo was administered on a random basis to 16 pentobarbital-anesthetized dogs 18 min after the induction of ventricular fibrillation and cardiopulmonary resuscitation. Defibrillation was attempted 2 min after the administration of bicarbonate or placebo. All animals were successfully defibrillated, but three of eight bicarbonate-treated and two of eight control animals died in electromechanical dissociation (p = NS). Spontaneous refibrillation occurred in three animals in each group (p = NS). Successful resuscitation was not dependent on treatment, arterial or mixed venous Pco2, or arterial or mixed venous pH but correlated strongly with coronary perfusion pressure (p less than .003). Spontaneous refibrillation occurred without relation to any identifiable variable. The gradient between diastolic aortic and right atrial pressures was 24 +/- 2 mm Hg in controls and 23 +/- 2 mm Hg in treated animals over the entire 20 min of cardiopulmonary resuscitation (p = NS). However, among animals successfully resuscitated, mean diastolic coronary perfusion pressure averaged 27 +/- 2 mm Hg compared with 20 +/- 1 mm Hg among those dying in electromechanical dissociation (p less than .02). For the final 2 min of resuscitation, after drug administration, these gradients were 31 +/- 2 and 23 +/- 2 mm Hg, respectively (p less than .01). Microsphere determined myocardial perfusion correlated with the diastolic aortic-right atrial perfusion pressure gradient (r = .86) and was 0.43 +/- 0.03 ml/min/g in survivors and 0.22 +/- 0.01 ml/min/g in nonsurvivors (p less than .01).(ABSTRACT TRUNCATED AT 250 WORDS)
+
+Guerci AD; Chandra N; Johnson E; Rayburn B; Wurmb E; Tsitlik J; Halperin HR; Siu C; Weisfeldt ML.
+
+

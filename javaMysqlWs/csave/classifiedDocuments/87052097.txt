@@ -1,0 +1,16 @@
+
+87052097
+
+Circulation 8703; 74(6 Pt 2):IV42-50
+
+Animal; Cough; Dogs; Human; Resuscitation/*MT; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..
+
+Modifications of cardiopulmonary resuscitation based on the cough.
+
+JOURNAL ARTICLE.
+
+The ability of cardiopulmonary resuscitation (CPR) to provide adequate vital organ blood flow during prolonged resuscitation has long been questioned, as has the mechanism of blood flow during CPR. Because coughing during cardiac arrest has been shown to produce adequate anterograde flow to maintain consciousness in man without compressing the heart, cough CPR has been used as a model of a pure  thoracic pump  mechanism on which to base modifications of CPR. In the thoracic pump mechanism, the left heart is a passive conduit for blood expressed from the pulmonary vasculature to the aorta, and there is selective flow to the brachiocephalic vascular bed because of its low pressure veins, which are protected by closure of thoracic inlet venous valves. Right heart flow from systemic veins to the lungs occurs between applications of pressure. Four alternative modalities exploiting the thoracic pump concept were studied in dogs during ventricular fibrillation with angiographic and pressure recordings: cough CPR, simultaneous chest compression and lung inflation, abdominal compression with lung inflation, and inflation of a vest and binder. The latter technique was associated with successful defibrillation and recovery after more than 30 min of circulatory support during ventricular fibrillation. Preliminary studies in a primate preparation indicate that this technique might be useful for prolonged circulatory support in man when defibrillation is not initially available or successful.
+
+Criley JM; Niemann JT; Rosborough JP; Hausknecht M.
+
+

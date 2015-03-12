@@ -1,0 +1,17 @@
+
+87052066
+
+Circulation 8703; 74(6):1355-64
+
+Acetylprocainamide/BL; Aged; Cardiac Pacing, Artificial; Dose-Response Relationship, Drug; Drug Evaluation; Electrocardiography; Female; Heart Catheterization; Heart Conduction System/*DE; Heart Ventricle/DE; Human; Infusions, Intravenous; Male; Middle Age; Procainamide/*AD/BL; Prospective Studies; Tachycardia/BL/DT/*ET.
+
+Effects of incremental doses of procainamide on ventricular refractoriness, intraventricular conduction, and induction of ventricular tachycardia.
+
+JOURNAL ARTICLE.
+
+The short-term effects of incremental doses of procainamide (7.5, 15, 22.5, and 30 mg/kg) on right ventricular effective refractory period, intraventricular conduction, and induction of ventricular tachycardia were determined in 31 patients who had a history of sustained, unimorphic ventricular tachycardia. QRS duration during incremental ventricular pacing was used as an index of rate-dependent changes in intraventricular conduction. The mean plasma procainamide concentrations corresponding to the incremental doses were 5.5 +/- 1.2 (+/- SD), 9.0 +/- 1.6, 12.6 +/- 2.2, and 16.3 +/- 3.2 mg/liter. Each incremental dose of procainamide up to a dose of 30 mg/kg resulted in a significant increment in right ventricular effective refractory period and each dose up to 22.5 mg/kg potentiated a rate-dependent prolongation of QRS duration. After the 7.5 mg/kg dose of procainamide, induction of ventricular tachycardia was suppressed in eight of 31 patients. After higher doses of procainamide, induction of ventricular tachycardia was suppressed in two additional patients. In three of 10 patients in whom the induction of ventricular tachycardia was suppressed by 7.5, 15, or 22.5 mg/kg of procainamide, sustained unimorphic ventricular tachycardia was again inducible after a higher dose of procainamide. In three of 31 patients, only nonsustained ventricular tachycardia was inducible after a 7.5 to 22.5 mg/kg dose of procainamide; however, in two of these three patients, sustained ventricular tachycardia was again inducible after administration of a higher dose of procainamide. In conclusion, during electropharmacologic testing with procainamide, it is worthwhile to test a dose of 7.5 mg/kg, because this dose is often effective in patients who respond to this drug. However, the results of this study indicate that procainamide may be effective in suppressing the induction of sustained ventricular tachycardia at a relatively low plasma concentration, but not at a higher plasma concentration. Therefore, during long-term therapy w
+ith procainamide it may be important to avoid plasma procainamide concentrations not only lower, but also higher than the concentration that results in the suppression of induction of tachycardia.
+
+Morady F; DiCarlo LA Jr; de Buitleir M; Krol RB; Baerman JM; Kou WH.
+
+

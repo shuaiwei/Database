@@ -1,0 +1,16 @@
+
+87052486
+
+Clin Pharmacol Ther 8703; 40(6):615-9
+
+Acetylation; Adult; Amrinone/AA/BL/*ME/UR; Human; Infusions, Intravenous; Kinetics; Male; Phenotype.
+
+Effect of the acetylator phenotype on amrinone pharmacokinetics.
+
+JOURNAL ARTICLE.
+
+Ten healthy male subjects were phenotyped with isoniazid for their acetylator status and then received intravenous amrinone at a dose of 75 mg during a period of 10 minutes. Blood samples were drawn at specified times during a 24-hour period after dosing. Plasma concentrations of amrinone were determined by a specific HPLC method. The plasma concentration data were fitted to a biexponential model by nonlinear regression. The mean apparent first-order elimination t1/2 for amrinone in the slow acetylators was 4.4 hours, whereas it was 2.0 hours in the fast acetylators (P less than 0.05). There was little difference in the volume of distribution at steady state. Clearance was lower in the slow acetylators, 16.6 L/hr, than in the fast acetylators, 37.2 L/hr (P less than 0.05). The AUC was higher for the slow acetylators, 4.96 micrograms X hr X ml-1, than for the fast acetylators, 2.20 micrograms X hr X ml-1 (P less than 0.01). Concentrations of amrinone and its N-acetyl metabolite in the urine from each volunteer were determined. The ratio of N-acetylamrinone to amrinone was calculated and, as expected, the fast acetylators had a higher ratio than did the slow acetylators (P less than 0.01).
+
+Hamilton RA; Kowalsky SF; Wright EM; Cernak P; Benziger DP; Stroshane RM; Edelson J.
+
+

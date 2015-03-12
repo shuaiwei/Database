@@ -1,0 +1,16 @@
+
+87052065
+
+Circulation 8703; 74(6):1346-54
+
+Cardiac Pacing, Artificial; Cardiopulmonary Bypass; Cineradiography; Comparative Study; Computers; Electrocardiography/IS/*MT; Electrodes; Evaluation Studies; Heart Catheterization/IS/*MT; Heart Ventricle/PP/RA/SU; Human; Intraoperative Care/*MT; Support, Non-U.S. Gov't; Tachycardia/DI/SU.
+
+Endocardial catheter mapping: wire skeleton technique for representation of computed arrhythmogenic sites compared with intraoperative mapping.
+
+JOURNAL ARTICLE.
+
+Guiding surgical therapy of ventricular tachycardia by preoperative endocardial catheter mapping necessitates improvement of the accuracy of localization of the arrhythmogenic site. We therefore used a new mathematical cineradiographic method during catheter mapping to compute the position of left ventricular arrhythmogenic sites relative to three anatomic reference points: the centers of aortic and mitral valve ostia and the left ventricular apex. To enable the surgeon to identify the position of the computed sites, a wire skeleton (one for each patient) representing a single or multiple arrhythmogenic site(s) relative to the anatomic reference points was constructed. This wire skeleton was inserted into the left ventricular cavity during surgery. Side branches of the device indicated preoperatively localized arrhythmogenic sites. Results in eight consecutive patients were compared with those of intraoperative simultaneous mapping of 64 endocardial sites. Sixteen morphologically distinct monomorphic ventricular tachycardias were mapped by catheter and 15 by intraoperative mapping. In 12 ventricular tachycardias an identical morphology was recorded during both techniques. The distance between arrhythmogenic sites localized with both methods was 1 cm or less in 11 of these 12 ventricular tachycardias and 2 cm in one ventricular tachycardia. These results indicate that endocardial catheter mapping combined with wire skeleton representation of computed positions of arrhythmogenic sites is reliable for guiding surgical therapy of ventricular tachycardia and since some of the ventricular tachycardias were inducible only during either preoperative or intraoperative mapping, both techniques have an additive value. In addition, the wire skeleton proved convenient during surgery by identifying the arrhythmogenic sites.
+
+Hauer RN; de Zwart MT; de Bakker JM; Hitchcock JF; Penn OC; Nijsen-Karelse M; Robles de Medina EO.
+
+

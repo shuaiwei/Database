@@ -1,0 +1,17 @@
+
+87050034
+
+Blood 8703; 68(6):1224-31
+
+Antibodies, Monoclonal/DU; Blood Platelets/DE/*ME; Calcium/PH; Epinephrine/*PD; Fibrinogen/ME; Human; Magnesium/ME; Platelet Aggregation/*/DE; Platelet Membrane Glycoproteins/DE/*ME; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Time Factors.
+
+Expression of fibrinogen receptors during activation and subsequent desensitization of human platelets by epinephrine.
+
+JOURNAL ARTICLE.
+
+Epinephrine causes platelet aggregation and secretion by interacting with alpha 2-adrenergic receptors on the platelet surface. Platelet aggregation requires the binding of fibrinogen to a specific receptor on the membrane glycoprotein IIb-IIIa complex. Although the IIb-IIIa complex is identifiable on the surface of resting platelets, the fibrinogen receptor is expressed only after platelet activation. The current studies were designed to examine the effect of occupancy of platelet alpha 2-adrenergic receptors by epinephrine on the expression of fibrinogen receptors and on the aggregation of platelets. The ability of epinephrine to induce the expression of fibrinogen receptors was studied under two different conditions: acute stimulation (less than 1 min) and prolonged stimulation (50 to 90 min), the latter of which is associated with a reduction or  desensitization  of the platelet aggregation response. Expression of the fibrinogen receptor was monitored with 125I-fibrinogen as well as with 125I-PAC-1 (PAC-1), a monoclonal antibody that binds to the glycoprotein IIb-IIIa complex only after platelets are activated. Epinephrine caused an immediate increase in PAC-1 and fibrinogen binding that was dependent on occupancy of the alpha 2-receptor by epinephrine and on the presence of extracellular free Ca (KCa = 30 mumol/L). By itself, 1 mmol/L Mg was unable to support induction of the fibrinogen receptor by epinephrine. However, it did decrease the Ca requirement by about two orders of magnitude. Prolonged stimulation of unstirred platelets by epinephrine led to a 70% decrease in the aggregation response when the platelets were subsequently stirred. Despite their decreased aggregation response, desensitized platelets bound PAC-1 and fibrinogen normally, indicating that the loss of aggregation was not due simply to a decrease in fibrinogen receptor expression. Although desensitization was not affected by pretreatment of the platelets with aspirin, it was partially prevented when extracellular Ca was chelated by EDT
+A during the long incubation with epinephrine. These studies demonstrate that once platelet alpha 2-adrenergic receptors are occupied by epinephrine, extracellular Ca is involved in initiating the aggregation response by supporting the induction of the fibrinogen receptor and the binding of fibrinogen. Furthermore. Ca-dependent reactions subsequent to fibrinogen binding may be necessary for maximal platelet aggregation and are impaired when platelets become desensitized to epinephrine.
+
+Shattil SJ; Motulsky HJ; Insel PA; Flaherty L; Brass LF.
+
+

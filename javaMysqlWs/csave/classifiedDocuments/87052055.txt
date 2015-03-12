@@ -1,0 +1,16 @@
+
+87052055
+
+Circulation 8703; 74(6):1248-54
+
+Angina Pectoris/*PP; Angina, Unstable/*PP; Cardiac Pacing, Artificial; Circadian Rhythm/*; Coronary Disease/*PP; Coronary Vessels/RA; Electrocardiography; Heart Atrium/PP; Heart Catheterization; Hemodynamics; Human; Male; Middle Age; Rest.
+
+Resting angina with fixed coronary artery stenosis: nocturnal decline in ischemic threshold.
+
+JOURNAL ARTICLE.
+
+Atrial pacing was performed in 16 patients with angina at rest and significant coronary artery stenosis (greater than 70%) over 2 consecutive days in the morning (10 A.M. to 1 P.M.), in the afternoon (4 to 7 P.M.), and at night (12 midnight to 3 A.M.) to assess possible circadian variations of their ischemic threshold. Overall, the incidence of resting angina was highest at night. All pacing results were positive (greater than or equal to 1.0 mm ST segment shift) and tended to be reproducible in nine patients, whereas some or all were negative in seven. Among all positive results, ischemic thresholds at night were significantly lower than those in the morning and in the afternoon (125 +/- 3 vs 138 +/- 3 and 139 +/- 2 beats/min, mean +/- SEM; p less than .005). In nine patients, 19 pacing tests produced ST segment elevation, of which 13 were performed at night (68%). We conclude that patients with resting angina and severe coronary stenosis often exhibit a nocturnal decline in their ischemic threshold, which seems to facilitate development of transmural ischemia during atrial pacing.
+
+Figueras J; Cinca J; Balda F; Moya A; Rius J.
+
+

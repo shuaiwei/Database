@@ -1,0 +1,16 @@
+
+87052053
+
+Circulation 8703; 74(6):1235-42
+
+Cineradiography; Comparative Study; Coronary Disease/*RA/TH; Coronary Vessels/RA; Evaluation Studies; Follow-Up Studies; Heart Catheterization; Human; Image Processing, Computer-Assisted; Methods; Random Allocation; Retrospective Studies; Risk; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Time Factors.
+
+Optimal detection of the progression of coronary artery disease: comparison of methods suitable for risk factor intervention trials.
+
+JOURNAL ARTICLE.
+
+To assess the best method of quantitating progression of coronary disease, we studied four measurements in 114 coronary segments from 35 medically treated patients from whom angiograms were obtained 5 years apart. Only stenoses of less than 70% that were visualized in nearly identical projections on both angiograms were evaluated. Vessel edges were measured by use of catheter calibration and an automated computer algorithm yielding two  absolute dimensions  (mean and minimum diameters) and two measurements (percent stenosis and atheroma area) that required a  normal reference  diameter. The coefficient of variation for repeated segment measurements was less for mean and minimum diameter than for percent stenosis and area of atheroma. The best measure of progression of coronary disease as determined by t test comparison of different methods was the change in mean diameter over time (6.7 +/- 14.1% decrease), whether calculated on a per coronary segment or per patient basis (p less than .001). Based on this measurement and its standard deviation of progression of coronary disease in this patient subset with relatively benign disease, it is estimated that 470 patients per group would be required for an interventional study to demonstrate a 33% reduction in disease progression (207 patients for 50% reduction) at a 95% confidence level and 90% power.
+
+Ellis S; Sanders W; Goulet C; Miller R; Cain KC; Lesperance J; Bourassa MG; Alderman EL.
+
+

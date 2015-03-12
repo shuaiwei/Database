@@ -1,0 +1,16 @@
+
+87052073
+
+Circulation 8703; 74(6):1416-23
+
+Analysis of Variance; Animal; Blood Flow Velocity/DE; Coronary Circulation/*DE; Dogs; Dose-Response Relationship, Drug; Flowmeters; Heart/*DE/PH; Hemodynamics/DE; Iohexol/DU/*PD; Support, Non-U.S. Gov't; Support, U.S. Gov't, Non-P.H.S.; Time Factors.
+
+The immediate effects of iohexol on coronary blood flow and myocardial function in vivo.
+
+JOURNAL ARTICLE.
+
+Radiographic techniques used to quantify coronary blood flow all require bolus injection of contrast material, which markedly alters the flow being measured. Newer nonionic contrast agents have been shown to have fewer adverse hemodynamic, inotropic, and rheologic effects compared with ionic media and it has been suggested that they might not substantially affect coronary blood flow. Six dogs were instrumented with electromagnetic flow probes and subendocardial ultrasonic crystals. Intracoronary injections of iohexol (300 mg/ml iodine) were administered to establish a relationship between the dose and rate of contrast injection and the effect on flow and regional myocardial function. Two and 4 ml volumes of iohexol were injected at 3 ml/sec; 4 ml volumes were administered at 1 and 4 ml/sec. The 2 and 4 ml volumes decreased coronary flow by a mean of 31% (p less than .01) and 77% (p less than .001). The 4 ml injection at 1 and 4 ml/sec 77% (p less than .001) and 69% (p less than .001). The magnitude of the fall in flow was directly related to the dose, and the rate at which the flow nadir was attained was directly related to the rate of injection. Decrements in fractional shortening were temporally delayed by several beats compared with the flow changes and showed mean decrements of 19% to 29%. The effects on regional myocardial function were independent of contrast volume. However, the degree of dysfunction was more profound with slower infusion rates, suggesting that prolongation of contrast-induced ischemia was a major modulating factor.(ABSTRACT TRUNCATED AT 250 WORDS)
+
+Friedman HZ; DeBoe SF; McGillem MJ; Mancini GB.
+
+

@@ -1,0 +1,16 @@
+
+87050917
+
+Burns Incl Therm Inj 8703; 12(7):457-60
+
+Animal; Burns, Inhalation/*ME; Dextrans/DU; DTPA/DU; Extracellular Space/*ME; Lung/*ME; Rabbits; Technetium/DU.
+
+Early detection of extravascular lung water in an inhalation injury animal model [published erratum appears in Burns Incl Therm Inj 1987 Feb;13(1):82]
+
+JOURNAL ARTICLE.
+
+A rabbit inhalation injury model using a dual tracer radioactive isotope technique (Rowland et al., 1986), has been utilized with small- and medium-sized molecular weight tracers. There is oedema formation at 2 h after smoke inhalation or fluid resuscitation and especially with the combination of inhalation injury and fluid resuscitation [corrected]. This oedema appears to have decreased by 24 h post-injury. There does not appear to be any difference between the small- and medium-sized tracers in the transit times of tracer in the lung vascular compartment. The increases in extravascular water volume have been confirmed by gravimetric analyses of the lungs. Thus the pulmonary oedema in the rabbit animal model is detectable within 2 h post-injury, with a return towards normal values some time within 24 h if fluid challenged for short periods. Fluid resuscitation exacerbates the amount of oedema that developed. The onset of pulmonary oedema may therefore be earlier than previously seen clinically, and fluid resuscitation modifications may be of benefit in smoke inhalation injury.
+
+Stewart RJ; Yamaguchi KT; Rowland RR; Santibanez AS; Rahimian J.
+
+

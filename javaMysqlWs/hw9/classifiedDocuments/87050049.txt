@@ -1,0 +1,16 @@
+
+87050049
+
+Blood 8703; 68(6):1329-32
+
+Cell Membrane/UL; Fetal Blood/PA; Human; Infant, Newborn; Lymphocytes/*PA; Microscopy, Electron, Scanning; Microvilli/UL; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S.; Wiskott-Aldrich Syndrome/DI/*PA.
+
+Morphological abnormalities in the lymphocytes of patients with the Wiskott-Aldrich syndrome.
+
+JOURNAL ARTICLE.
+
+Lymphocytes from 18 patients with the Wiskott-Aldrich Syndrome (WAS) were examined by scanning electron microscopy (SEM). Most peripheral blood lymphocytes from normal individuals are covered with slender microvillus projections, but a large proportion of lymphocytes from WAS patients were found to be relatively devoid of microvilli. A lymphocyte morphology scoring system was developed to quantify the density of microvilli: Grade 4 classified those lymphocytes with greater than 75% of the surface covered with microvilli with progressive decrements to grade 1, which were those without microvilli. The mean lymphocyte morphology score of eight normal individuals was 3.62 +/- .22. The mean lymphocyte score of WAS patients was substantially lower (2.89 +/- .27, P less than .001). In addition, WAS lymphocytes often were qualitatively abnormal, with short, blunted microvilli. These morphological criteria were used to diagnose WAS from the cord blood lymphocytes of one  at-risk  patient. Thus, WAS is the first primary immunodeficiency in which morphological abnormalities have been identified that can aid in diagnosis.
+
+Kenney D; Cairns L; Remold-O'Donnell E; Peterson J; Rosen FS; Parkman R.
+
+

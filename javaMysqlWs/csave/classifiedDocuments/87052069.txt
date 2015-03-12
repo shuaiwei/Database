@@ -1,0 +1,17 @@
+
+87052069
+
+Circulation 8703; 74(6):1379-89
+
+Comparative Study; Coronary Vessels/*/RA; Drug Evaluation; Electrocardiography; Heart Catheterization; Heart Ventricle/DE/RI; Hemodynamics/DE; Human; Hydroxybutyrate Dehydrogenase/BL; Myocardial Infarction/DT/EN/MO; Myocardium/EN; Streptokinase/*AD; Time Factors.
+
+Which patients benefit most from early thrombolytic therapy with intracoronary streptokinase? [published erratum appears in Circulation 1987 Feb;75(2):394]
+
+JOURNAL ARTICLE.
+
+The effect of thrombolysis in acute myocardial infarction on enzymatic infarct size, left ventricular function, and early mortality was studied in subsets of patients in a randomized trial. Early thrombolytic therapy with intracoronary streptokinase (152 patients) or with intracoronary streptokinase preceded by intravenous streptokinase (117 patients) was compared with conventional treatment (264 patients). All 533 patients were admitted to the coronary care unit within 4 hr after onset of symptoms indicative of acute myocardial infarction. Four hundred eighty-eight patients were eligible for this detailed analysis, and 245 of these were allocated to thrombolytic therapy and 243 to conventional treatment. Early angiographic examinations were performed in 212 patients allocated to thrombolytic therapy. Patency of the infarct-related artery was achieved in 181 patients (85%). Enzymatic infarct size, as measured from cumulative alpha-hydroxybutyrate dehydrogenase release, was smaller in patients allocated to thrombolytic therapy (median 760 vs 1170 U/liter in control patients, p = .0001). Left ventricular ejection fraction measured by radionuclide angiography before discharge from the hospital was higher after thrombolytic therapy (median 50% vs 43% in control patients, p = .0001). Three month mortality was lower in patients allocated to thrombolytic therapy (6% vs 14% in the control group, p = .006). With the use of multivariate regression analysis, infarct size limitation, improvement in left ventricular ejection fraction, and three month mortality were predicted by sum of the ST segment elevation, time from onset of symptoms to admission, and Killip class at admission. Thrombolysis was most effective in patients admitted within 2 hr after onset of symptoms and in patients with a sum of ST segment elevation of 1.2 mV or more. On the other hand, no beneficial effects of streptokinase on enzymatic infarct size, left ventricular function, or mortality were observed in the subset of patients with a sum of ST segmen
+t elevation of less than 1.2 mV who were admitted between 2 and 4 hr after onset of symptoms.
+
+Vermeer F; Simoons ML; Bar FW; Tijssen JG; van Domburg RT; Serruys PW; Verheugt FW; Res JC; de Zwaan C; van der Laarse A; et al.
+
+

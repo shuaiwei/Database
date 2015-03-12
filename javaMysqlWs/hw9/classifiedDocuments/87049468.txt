@@ -1,0 +1,16 @@
+
+87049468
+
+Br J Anaesth 8703; 58(11):1290-5
+
+Atracurium/*AI/PD; Comparative Study; Edrophonium/*PD; Human; Muscle Contraction/DE; Neostigmine/*PD; Neuromuscular Blocking Agents/*AI; Time Factors.
+
+Antagonism of atracurium-induced neuromuscular blockade by neostigmine or edrophonium.
+
+JOURNAL ARTICLE.
+
+Antagonism of atracurium-induced neuromuscular blockade by neostigmine or edrophonium has been studied using the tetanic (50 Hz) and train-of-four (2 Hz) or single twitch responses of the adductor pollicis muscle in 22 anaesthetized patients. A further nine patients not given an anticholinesterase acted as a control group. In two groups (six patients for each anticholinesterase) in whom antagonism was attempted at 95-98% blockade of the tetanic response, recovery of the tetanic response after two or three doses of edrophonium 0.75 mg kg-1 i.v. was not statistically different from that in the control group; recovery after two doses of neostigmine 2.5 mg i.v. was significantly faster (P less than 0.001). Recovery of the single twitch response after antagonism with edrophonium, although longer than that with neostigmine (P less than 0.01), was significantly shorter than in the control group (P less than 0.05). When edrophonium is given at the commencement of recovery, the initial rapid antagonism of tetanic block is not sustained, whereas antagonism by neostigmine is more persistent and the recovery phase is significantly shortened. In a further two groups of patients (n = 5) given atracurium 0.3 mg kg-1 i.v., antagonism was not attempted until the peak height of the tetanic contraction had reached approximately 50% of the control value.(ABSTRACT TRUNCATED AT 250 WORDS)
+
+Astley BA; Hughes R; Payne JP.
+
+

@@ -1,0 +1,17 @@
+
+87052442
+
+Clin Orthop 8703;  (213):264-78
+
+Biomechanics; Bone Regeneration; Bone Resorption; Human; Ilium/PA/*PP; Models, Biological; Osteoporosis/DT/PA/*PP; Probability/*; Stochastic Processes/*.
+
+A stochastic analysis of iliac trabecular bone dynamics.
+
+JOURNAL ARTICLE.
+
+Published normal histomorphometric data were used to derive distributions of thicknesses of trabecular plates and completed bone remodelling units (the basic multicellular unit carrying out bone remodelling, the BMU, when completed is termed a structural unit BSU). A stochastic model was set up to investigate the predictions of current BMU theory. Each of 100 trabecular  thicknesses  was drawn from the appropriate normal distribution using a pseudorandom number generator. Each day, each of its two surfaces when quiescent was assumed to have a 1:900 chance of initiating a remodelling cycle. Resorption (active, 12 days; reversal phase, 27 days) was followed by formation (94 +/- 35 days) and resulted in BMU balance when resorption depth was 36.8 +/- 9.2 micron. Fenestration (thickness less than 0) was assumed to lead to permanent loss of the trabecula. The original model unrealistically increased its mean trabecular thickness as thin trabeculae were lost. This was corrected by assuming that thin trabeculae had greater osteoblastic stimulation and a consequent tendency to thicken, perhaps due to higher mechanical loading. Over 20 years, 14% of trabeculae were lost when the BMU balance was exact and the distribution of trabecular thicknesses was unchanged. About one-half of fenestrations were due to deeper-than-average resorption cavities developing in thin trabeculae, and the remainder to coincident remodelling on both surfaces. A 10% fall in osteoblast lifespan resulted in an additional 36.7% loss of trabecular bone volume and mean trabecular thickness fell to 83.1 micron, compatible with Courpron's data. Simulating more rapid mechanisms of bone loss, approximately 50% of trabeculae could be lost after ten years by the arrest of bone formation; the doubling of resorption depth with unchanged bone formation; and a doubling in the rate of initiation of new BMUs with unchanged bone formation rate, all three followed by complete recovery of BMU balance after only two years. In each case, mean trabecular thickness fel
+l only transiently but trabeculae continued to be lost after recovery. Prolonged osteoblast life span was the most likely explanation for the increased mean trabecular thicknesses and trabecular bone volumes seen in patients with osteoporosis, when treated with sodium fluoride plus calcium supplements or daily injections of parathyroid peptide hPTH 1-34.
+
+Reeve J.
+
+

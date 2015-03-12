@@ -1,0 +1,16 @@
+
+87052450
+
+Clin Orthop 8703;  (213):77-83
+
+Animal; Cartilage, Articular/*DE/ME/PA; Disease Models, Animal; Estradiol/*PD; Female; Human; Male; Organ Culture; Osteoarthritis/*ME; Ovariectomy; Prostaglandins/BI; Proteoglycans/BI; Rabbits; Stains and Staining; Support, U.S. Gov't, P.H.S.; Tamoxifen/*PD.
+
+Estrogens and osteoarthritis.
+
+JOURNAL ARTICLE.
+
+Clinical and laboratory observations suggest that a relationship exists between sex hormones and the development of osteoarthritis. The mechanisms whereby these hormones influence the pathophysiology of osteoarthritis have been explored. Tamoxifen, an estrogen antagonist, reduced erosive changes in meniscectomy-induced osteoarthritis in rabbits. By contrast, estradiol worsened it. There was no effect of either agent on the incidence of osteophytes in this model. Both estradiol and tamoxifen affected proteoglycan, prostaglandin, and proteoglycanase production by cartilage components. These observations suggest that cartilage is a sex hormone-sensitive tissue. This may have therapeutic implications in the future.
+
+Rosner IA; Goldberg VM; Moskowitz RW.
+
+

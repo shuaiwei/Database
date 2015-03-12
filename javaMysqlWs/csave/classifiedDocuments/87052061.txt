@@ -1,0 +1,16 @@
+
+87052061
+
+Circulation 8703; 74(6):1309-16
+
+Aortic Valve; Aortic Valve Insufficiency/PP/SU; Aortic Valve Stenosis/PP/SU; Heart Catheterization; Heart Valve Prosthesis/*; Hemodynamics/*; Human; Mitral Valve; Mitral Valve Insufficiency/PP/SU; Mitral Valve Stenosis/PP/SU; Postoperative Period; Prognosis; Stroke Volume; Systole.
+
+Hemodynamic predictors of outcome in patients undergoing valve replacement [published erratum appears in Circulation 1987 Mar;75(3):650]
+
+JOURNAL ARTICLE.
+
+The afterload-corrected end-systolic volume index (ratio of end-systolic stress to end-systolic volume index [ESS/ESVI]) was previously useful in predicting outcome in patients with mitral regurgitation undergoing valve replacement. Therefore we tested ESS/ESVI together with standard hemodynamic variables as possible predictors of outcome in 39 patients with various valvular lesions who underwent valve replacement. Thirteen patients had preoperative mitral regurgitation, 16 had aortic stenosis, nine had aortic regurgitation, and one had mitral stenosis. Twenty-seven patients (group S) had a satisfactory outcome as defined by a return to NYHA class I or II together with a normal postoperative ejection fraction. Twelve patients who died, remained in class III or IV, or had a subnormal postoperative ejection fraction were deemed to have an unsatisfactory result (group U). Mean right atrial pressure, pulmonary arterial pressure, pulmonary capillary wedge pressure, end-diastolic volume index, end-systolic volume index (ESVI), and end-systolic wall stress were all greater in group U, whereas ESS/ESVI and ejection fraction were lower in group U. When these and other factors were submitted to stepwise discriminant multivariate analysis, ESS/ESVI and ESVI were the only independent predictors of outcome. However, when patients with mitral regurgitation (who might have biased the study) were excluded, discriminant analysis showed ESVI as the only independent predictive variable. We conclude that end-systolic indicators of ventricular function are superior to other standard hemodynamic variables in predicting outcome of valve replacement.
+
+Carabello BA; Williams H; Gash AK; Kent R; Belber D; Maurer A; Siegel J; Blasius K; Spann JF.
+
+

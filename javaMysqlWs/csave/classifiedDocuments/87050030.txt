@@ -1,0 +1,16 @@
+
+87050030
+
+Blood 8703; 68(6):1201-6
+
+Anemia, Macrocytic/*PA/PP; Animal; Bone Marrow/CY/*PH; Cell Differentiation; Cell Division; Colony-Forming Units Assay; Growth Inhibitors/RE; Growth Substances/PD; Hematopoiesis/*; Mice; Mice, Mutant Strains/*PH; Radiation, Ionizing.
+
+Sl/Sld mouse bone marrow stroma in vitro contains an active radiation-sensitive inhibitor of normal hemopoiesis.
+
+JOURNAL ARTICLE.
+
+Sl/Sld mice have a defective hemopoietic microenvironment. It has been assumed, based upon previous studies, that the primary abnormality in these mice is simply lack of a necessary supportive or inductive material within the hemopoietic stroma. We used in vitro long-term bone marrow cultures to characterize further the nature of the hemopoietic microenvironmental defect in Sl/Sld mice. Sl/Sld mouse bone marrow cells consistently produced less than 10% of the total hemopoietic cells and multipotent and unipotent hemopoietic progenitor cells produced in cultures of marrow from normal, congenic +/+ mice. If fresh Sl/Sld and +/+ marrow cells were mixed prior to establishing long-term marrow cultures, there was a direct correlation between number of Sl/Sld cells added and degree of inhibition of +/+ hemopoiesis. A pre-established, confluent Sl/Sld adherent stromal layer inhibited hemopoiesis by fresh +/+ marrow cells by nearly 70%, as compared with dishes with irradiated +/+ or no stroma. This inhibitory effect was abrogated by irradiation of the Sl/Sld stroma prior to addition of the fresh +/+ marrow cells. Similarly, unirradiated, but not 9 to 200 Gy irradiated Sl/Sld stroma inhibited proliferation of the factor-dependent FDC-P1 hemopoietic progenitor cell line. Thus, the Sl/Sld hemopoietic microenvironment actively inhibits hemopoiesis in vitro, and this inhibition can be at least partially eliminated by irradiation of the Sl/Sld stroma.
+
+Zuckerman KS; Prince CW; Ribadeneira M.
+
+

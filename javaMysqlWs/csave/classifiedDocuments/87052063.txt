@@ -1,0 +1,16 @@
+
+87052063
+
+Circulation 8703; 74(6):1323-33
+
+Adult; Aged; Comparative Study; Electrocardiography/IS/*MT; Electrodes; Female; Human; Male; Membrane Potentials; Microcomputers; Middle Age; Minicomputers; Support, Non-U.S. Gov't; Tachycardia/*DI/DT/SU; Time Factors; Vectorcardiography/IS/MT.
+
+Characterization of the spatial distribution of late ventricular potentials by body surface mapping in patients with ventricular tachycardia.
+
+JOURNAL ARTICLE.
+
+Low-level activity at the end of the QRS complex was analyzed from 63 thoracic leads in 15 normal subjects and in 21 patients with ventricular tachycardia (VT). The latter had old myocardial infarction and no conduction disturbances and had not been receiving antiarrhythmic drugs. In both normal subjects and patients with VT, isopotential maps of the time-averaged and filtered (25 Hz high-pass) electrocardiograms during the terminal portion of the QRS were dipolar, i.e., they showed single positive and negative regions. For patients with VT, the extrema were either distant, with one over the precordial area and the other over the back, or close together in the precordial region. In 10 patients, maps recorded after administration of antiarrhythmic drugs remained the same while QRS duration was prolonged. In six patients, maps recorded before antiarrhythmic surgery showed distant extrema for septal or posterobasal VT sites of origin and close extrema for anterior or posteroapical sites. Generally, QRS duration was reduced and maps were modified after surgery. Late potentials can be well detected with only three orthogonal leads because their distributions are dipolar, but maps provide additional information about their distribution, which may be related to conduction delay sites and possibly to VT sites of origin. Sources near the torso surface would produce close extrema, whereas deeper sources would produce distant extrema.
+
+Faugere G; Savard P; Nadeau RA; Derome D; Shenasa M; Page PL; Guardo R.
+
+

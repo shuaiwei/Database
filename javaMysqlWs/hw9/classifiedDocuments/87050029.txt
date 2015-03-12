@@ -1,0 +1,16 @@
+
+87050029
+
+Blood 8703; 68(6):1196-200
+
+Antibodies, Monoclonal/*IM; Antibody-Dependent Cell Cytotoxicity; Bone Marrow/*IM/PH; Endothelium/*IM; Fibroblasts/*IM; Hematopoiesis; Human; Stem Cells/IM; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..
+
+Lysis of human fibroblast colony-forming cells and endothelial cells by monoclonal antibody (6-19) and complement.
+
+JOURNAL ARTICLE.
+
+The murine IgG2a monoclonal antibody 6-19 binds to a wide variety of nonhematopoietic cells including human marrow-derived stromal cells but does not bind to marrow or peripheral blood cells. We studied the effects of this antibody and rabbit complement on marrow cells. Fibroblast colonies were eliminated from light density marrow cells by a single incubation with monoclonal antibody 6-19 and complement. The growth and composition of granulocytic and erythroid colonies were unaffected. Specific complement mediated cytotoxicity of the antibody was confirmed on passaged human fibroblasts derived from marrow (more than 99.6% of fibroblasts are killed by a single treatment). Similar results were obtained with human umbilical cord endothelial cells. In addition, such treatment abolished the initiation of Dexter culture stroma. Incubation of bone marrow cell suspensions with this antibody and complement will allow the study of stroma-free marrow cells in long-term liquid cultures.
+
+Abboud CN; Duerst RE; Frantz CN; Ryan DH; Liesveld JL; Brennan JK.
+
+

@@ -1,0 +1,16 @@
+
+87052060
+
+Circulation 8703; 74(6):1303-8
+
+Cardiac Output/*/DE; Cardiomyopathy, Congestive/DT/*PP; Coronary Disease/DT/PP; Diuretics/TU; Heart Catheterization; Heart Ventricle/DE/PP; Hemodynamics/DE; Human; Prospective Studies; Rheumatic Heart Disease/DT/PP; Vasodilator Agents/TU.
+
+Maintenance of cardiac output with normal filling pressures in patients with dilated heart failure.
+
+JOURNAL ARTICLE.
+
+Therapy of elevated ventricular filling pressures in patients with dilated heart failure may be limited by concern that cardiac output will be further compromised. Twenty-five patients with severe symptoms and ejection fractions of 25% or less were studied to determine the lowest ventricular filling pressures that could be achieved with vasodilator and diuretic therapy while maintaining cardiac output. In 20 of 25 patients normal pulmonary capillary wedge pressures (PCWs) were achieved (mean 10 mm Hg compared with 30 mm Hg at baseline). Stroke volume was 60 vs 39 ml at baseline. Stroke work index was 30 vs 19 g-m/m2. For each patient, over the range of PCWs, stroke volume and stroke work index were maintained and were often maximal at the lowest PCW achieved. The upright position was well tolerated in patients with normal supine PCW. Normal filling pressures can be achieved in patients with congestive heart failure without compromise of cardiac output. While congestive symptoms should be improved, the feasibility and benefit of maintaining normal filling pressures over a long term must be established.
+
+Stevenson LW; Tillisch JH.
+
+

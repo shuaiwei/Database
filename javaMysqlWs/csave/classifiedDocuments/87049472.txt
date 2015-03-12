@@ -1,0 +1,16 @@
+
+87049472
+
+Br J Anaesth 8703; 58(11):1308-16
+
+Anesthesia, General/*; Anesthesia, Spinal/*; Animal; Cardiac Output/DE; Chlormethiazole/*ME/PD; Hemodynamics/*DE; Intestines/BS; Iodohippuric Acid/ME; Liver Circulation/DE; Regional Blood Flow/DE; Renal Circulation/DE; Sheep; Subarachnoid Space.
+
+A sheep preparation for studying interactions between blood flow and drug disposition. VI: Effects of general or subarachnoid anaesthesia on blood flow and chlormethiazole disposition.
+
+JOURNAL ARTICLE.
+
+Blood flow through and chlormethiazole extraction ratios across lungs, liver, kidneys and gut were measured in awake unrestrained sheep (controls) and with the same animals anaesthetized with 1.5% halothane or whilst undergoing high thoracic subarachnoid blockade with amethocaine. In the control-drug studies, chlormethiazole infused to sub-sedative blood concentrations produced no significant changes in haemodynamics or in the kinetics of iodohippurate (renal and hepatic blood flows). Chlormethiazole was eliminated predominantly by the liver (mean extraction ratio and clearance, respectively, 0.90 and 1.3 litre min-1) and lungs (0.15; 0.6 litre min-1). Renal clearance was absent or negligible (greater than 0.1 litre min-1). Because of pulmonary clearance, mean total body clearance was derived from analysis of pulmonary arterial concentrations. Under general anaesthesia, there were significant reductions in mean cardiac output, hepatic and renal blood flow (to 54%, 63% and 43% of control); chlormethiazole mean hepatic extraction ratios and clearance were reduced, respectively, to 82% and 56% of control, and its pulmonary and renal clearances were abolished. With subarachnoid anaesthesia there were no significant changes in haemodynamics or in chlormethiazole extraction ratios or clearances.
+
+Runciman WB; Mather LE; Ilsley AH; Carapetis RJ; Upton RN.
+
+

@@ -1,0 +1,16 @@
+
+87051246
+
+Cancer 8703; 58(12):2606-10
+
+Antineoplastic Agents/AD/AE; Combined Modality Therapy; Female; Human; Infant; Infant, Newborn; Male; Rhabdomyosarcoma/CN/*EP/PA; Support, U.S. Gov't, P.H.S..
+
+Infants younger than 1 year of age with rhabdomyosarcoma.
+
+JOURNAL ARTICLE.
+
+Of a total of 1561 patients registered in the Intergroup Rhabdomyosarcoma Study (IRS) as of May 1983, 78 patients (5%) were younger than 1 year of age. These infants did not differ from the older children (1-20 years of age) in male/female ratio, clinical grouping, or survival rates. Infants younger than 1 year of age had a significantly greater frequency of undifferentiated sarcoma, 18% versus 7% in older children (P less than 0.005). Infants also had a significantly greater proportion of cancers with botryoid pathology, 10% versus 4% in older children (P less than 0.005). When reviewed by the newly proposed IRS cytopathologic classification, there was no difference in pathologic types between the two age groups. Infants younger than 1 year of age had a higher rate of bladder-prostate-vagina primary tumor sites than older children, 24% versus 10% (P less than 0.05). In addition, infants tended to receive less of the prescribed doses of chemotherapy and radiation therapy than older children, and to develop more toxicity to treatment than older children. Despite these differences, the overall survival curve for the two age groups appears to be similar. In contrast to Wilms' tumor and neuroblastoma, in which age (less than 1 year) is a favorable prognostic factor, age does not appear to be an important prognostic factor in rhabdomyosarcoma.
+
+Ragab AH; Heyn R; Tefft M; Hays DN; Newton WA Jr; Beltangady M.
+
+

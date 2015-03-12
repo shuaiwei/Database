@@ -1,0 +1,16 @@
+
+87050701
+
+Brain 8703; 109 ( Pt 5):805-43
+
+Animal; Corpus Striatum/*PH; Dopamine/PH; Female; Forelimb/*PH; Methamphetamine/PD; Motor Cortex/*PH; Psychomotor Performance/*PH; Rats; Rats, Inbred Strains; Stereotyped Behavior/DE; Substantia Nigra/*PH; Support, Non-U.S. Gov't.
+
+The contributions of motor cortex, nigrostriatal dopamine and caudate-putamen to skilled forelimb use in the rat.
+
+JOURNAL ARTICLE.
+
+Skilled forelimb use was studied in rats with unilateral lesions of the sensorimotor cortex, the caudate-putamen, or the dopaminergic nigrostriatal bundle, in a task involving reaching for food. Limb preference and efficiency were evaluated, as well as the relationship between limb use, spontaneous, and methamphetamine-induced rotation bias, both preoperatively and postoperatively. To induce use of the nonpreferred limb, a bracelet, which prevented reaching but not other movements, was attached to the forearm of the preferred forelimb. Whereas small cortical lesions of the forepaw area of the sensorimotor cortex mildly influenced limb preference and use, larger lesions changed preference. Furthermore, medium-sized sensorimotor cortex lesions impaired contralateral limb use, although surprising recovery occurred on the forced tests with the bracelet. Large cortical lesions abolished effective reaching even on the forced tests. Impairments similar to those following sensorimotor cortex lesions were also obtained following small and large caudate-putamen lesions. By contrast, unilateral dopamine depletions not only blocked use of the limb contralateral to the depletion but also impaired use of the ipsilateral limb. There was recovery in use of the ipsilateral forelimb but not the contralateral forelimb. Correlational analysis showed a weak relation between methamphetamine-induced rotation and limb preference preoperatively but no significant relation between these two variables postoperatively. The similarity in the deficits following sensorimotor cortex lesions and basal ganglia lesions suggests that skilled forelimb use depends upon a shared neural organization within the two systems.
+
+Whishaw IQ; O'Connor WT; Dunnett SB.
+
+

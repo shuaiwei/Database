@@ -1,0 +1,16 @@
+
+87051560
+
+Cardiovasc Clin 8703; 17(2):239-49
+
+Heart Failure, Congestive/DT/ET/*PP/SU/TH; Heart Ventricle/*PP; Human; Intraoperative Complications/DT/*PP/SU/TH; Support, Non-U.S. Gov't; Vascular Resistance.
+
+Right ventricular failure associated with left ventricular failure.
+
+JOURNAL ARTICLE.
+
+RV and LV failure frequently coexist. Experimental evidence suggests that RV failure results from a primary insult to the right ventricle and an increase in pulmonary vascular resistance. LV failure results in an elevation of the left atrial pressure and thereby a reduction in the transpulmonary hydrostatic gradient. Because RV function depends on the contraction of the left ventricle, this contribution is reduced during LV failure. Treatment should be aimed first at restoring LV function. If RV failure persists and is not due to a simple mechanical problem, treatment of RV failure should be commenced. If volume loading, inotropes, and pH adjustments do not result in adequate RV output, a mechanical assist device should be considered. RHBP is the most powerful device, and it is capable of restoring systemic perfusion even when there is no residual RV function. Clinical results with this device have been most encouraging--most patients demonstrate improved RV function and a decrease in pulmonary vascular resistance after several days of treatment, allowing them to be weaned from assist. However, this technique is very invasive and requires constant close attention. PABC is a simple but less powerful assist device. Experimental studies suggest that if RV function is not extremely depressed--cardiac output is greater than 50 percent of normal--PABC may be effective in restoring systemic perfusion to normal levels. Current results suggest that RHBP remains the gold standard for severe RV failure, but further clinical experience with PABC may more clearly define its role in the management of RV failure.
+
+Spence PA; Baylis CE; Peniston CM; Salerno TA.
+
+

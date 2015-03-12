@@ -1,0 +1,16 @@
+
+87052072
+
+Circulation 8703; 74(6):1407-15
+
+Animal; Cerebrovascular Circulation; Comparative Study; Coronary Circulation; Dogs; Epinephrine/TU; Heart Arrest/MO/PP/*TH; Pressure; Respiration, Artificial/*; Resuscitation/*IS/MT; Support, U.S. Gov't, P.H.S.; Time Factors; Ventricular Fibrillation/PP/TH.
+
+Vest inflation without simultaneous ventilation during cardiac arrest in dogs: improved survival from prolonged cardiopulmonary resuscitation.
+
+JOURNAL ARTICLE.
+
+Myocardial and cerebral blood flow can be generated during cardiac arrest by techniques that manipulate intrathoracic pressure. Augmentation of intrathoracic pressure by high-pressure ventilation simultaneous with compression of the chest in dogs has been shown to produce higher flows to the heart and brain, but has limited usefulness because of the requirement for endotracheal intubation and complex devices. A system was developed that can produce high intrathoracic pressure without simultaneous ventilation by use of a pneumatically cycled vest placed around the thorax (vest cardiopulmonary resuscitation [CPR]). The system was first tested in a short-term study of the maximum achievable flows during arrest. Peak vest pressures up to 380 mm Hg were used on eight 21 to 30 kg dogs after induction of ventricular fibrillation and administration of epinephrine. Microsphere-determined myocardial blood flow was 108 +/- 17 ml/min/100 g (100 +/- 16% of prearrest flow) and cerebral flow was 51 +/- 12 ml/min/100 g (165 +/- 39% of prearrest). Severe lung or liver trauma was noted in three of eight dogs. If peak vest pressure was limited to 280 mm Hg, however, severe trauma was no longer observed. A study of the hemodynamics during and survival from prolonged resuscitation was then performed on three groups of seven dogs. Vest CPR was compared with manual CPR with either conventional (300 newtons) or high (430 newtons) sternal force. After induction of ventricular fibrillation, each technique was performed for 26 min. Defibrillation was then performed.(ABSTRACT TRUNCATED AT 250 WORDS)
+
+Halperin HR; Guerci AD; Chandra N; Herskowitz A; Tsitlik JE; Niskanen RA; Wurmb E; Weisfeldt ML.
+
+

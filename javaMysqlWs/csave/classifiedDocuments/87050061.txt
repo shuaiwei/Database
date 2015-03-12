@@ -1,0 +1,16 @@
+
+87050061
+
+Blood 8703; 68(6):1402-6
+
+Cell Differentiation/DE; Cell Division/DE; Cell Line; Dimethyl Sulfoxide/PD; Drug Resistance; Granulocytes/*CY; Human; Neuraminidase/ME; Sialic Acids/*PH; Sialoglycoproteins/*PH; Support, U.S. Gov't, P.H.S.; Thioguanine/PD; Tretinoin/PD.
+
+Hyposialylation of differentiation-inducer-resistant HL-60 cells.
+
+JOURNAL ARTICLE.
+
+The total sialic acid concent of retinoic acid (RA)-resistant or 6-thioguanine (6TG)-resistant HL-60 cells was more than tenfold lower and of dimethylsulfoxide (DMSO)-resistant HL-60 cells was approximately twofold lower than that of parental, wild-type (wt) HL-60 cells. Neuraminidase-inaccessible, ie residual cell-associated sialic acid after neuraminidase treatment, was four- to twelvefold lower in the three differentiation-inducer-resistant sublines than in the parent line. Neuraminidase treatment of 125I-labeled surface membrane glycoproteins (SMGs) from wt HL-60 cells converted the two-dimensional gel electrophoretic pattern to one having features in common with RA- and 6TG-resistant cells. However, neuraminidase treatment did not alter the sensitivity of wt HL-60 cells to differentiation induction by RA, hypoxanthine (purine base), or DMSO. These results indicate that differences in peripheral, neuraminidase-accessible sialic acids are important determinants of the gel electrophoretic mobility of the SMGs of the HL-60 line and sublines but are not likely related to the differentiation-resistance mechanism. Further studies are required to determine if hyposialylation of cryptic, neuraminidase-inaccessible sites has functional significance.
+
+Gallagher RE; Giangiulio DA; Chang CS; Glover CJ; Felsted RL.
+
+

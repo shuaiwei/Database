@@ -1,0 +1,17 @@
+
+87051270
+
+Cancer 8703; 58(12):2751-7
+
+Aged; Bladder Neoplasms/DI/PA/*TH; BCG Vaccine/*TU; Carcinoma/DI/PA/*TH; Case Report; False Negative Reactions; Female; Flow Cytometry/*; Human; Male; Middle Age; Support, U.S. Gov't, P.H.S..
+
+Monitoring intravesical bacillus Calmette-Guerin treatment of superficial bladder carcinoma by serial flow cytometry.
+
+JOURNAL ARTICLE.
+
+Simultaneous urinary flow cytometry, cytologic, and cystoscopic examinations were performed at 3-month intervals for a minimum of 1 year on 29 patients receiving intravesical bacillus Calmette-Guerin (BCG) treatment of superficial bladder carcinoma. Flow cytometry (FCM) and cytology were concordant in 57 of 103 examinations; both FCM and cytology were positive in 38 instances, and carcinoma was confirmed by biopsy in 35 (92.1%). In 16 instances FCM and cytology were negative, but carcinoma was present on biopsy in 5 (31.3%). Three examinations were suspicious by both techniques. The 46 determinations with discordant FCM and cytology were subdivided into pathologically confirmed recurrences (25 instances) and no evidence of pathologic and/or cystoscopic disease (21 instances). In the 25 instances of recurrences, FCM was positive in 18 (72.0%), suspicious in 3 (12.0%), and negative in 4 (16.0%), while cytology was positive in 3 (12.0%), suspicious in 9 (36.0%), and negative in 13 (52.0%). Most patients had a severe BCG-induced inflammatory response that caused an elevation of the hyperdiploid population, believed secondary to epithelial regeneration and proliferation. In the 21 instances without detectable recurrence, hyperploidy led to a relatively high proportion of positive (15) and suspicious (4) results by FCM, but only eight had distinct aneuploid populations. It is possible that this latter group, at least, is harboring occult carcinoma. Conventional cytology in the nonrecurrent group was positive in 1 (4.8%), suspicious in 7 (33.3%), and negative in 13 (61.9%). In those instances when tumor was confirmed by biopsy, the false-negative rate for FCM was 19.7%; the false-negative rate for cytology was 40.9%. Thus, FCM appears to be more sensitive but less specific than conventional cytology, having a lower false-negative but a higher false-positive rate. Although serial FCM provides an objective quantitative measure of aneuploid stemlines and hyperdiploid populations in bladder irrigation specimens and can b
+e helpful in following intravesical BCG therapy for superficial bladder carcinoma, it should still be used with conventional cytology. The greatest difficulty with FCM at present, as with conventional cytology, is in cases of marked inflammation. The results reported here were obtained under the most stringent conditions and represent the minimum level of accuracy. Potential improvements in the technique, with the addition of immunologic or other markers, hold hope of further increasing the accuracy of FCM.
+
+Badalament RA; Gay H; Whitmore WF Jr; Herr HW; Fair WR; Oettgen HF; Melamed MR.
+
+

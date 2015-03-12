@@ -1,0 +1,16 @@
+
+87051247
+
+Cancer 8703; 58(12):2611-6
+
+Adult; Aged; Antineoplastic Agents, Combined/AE/*TU; Bleomycins/AD; Doxorubicin/AD; Female; Human; Liver Diseases/CI; Lymphatic Metastasis; Male; Mechlorethamine/AD; Methotrexate/AD; Middle Age; Mycosis Fungoides/*DT/SU; Neutropenia/CI; Skin Diseases/CI; Skin Neoplasms/*DT; Splenectomy.
+
+Treatment of advanced stage mycosis fungoides with bleomycin, doxorubicin, and methotrexate with topical nitrogen mustard (BAM-M).
+
+JOURNAL ARTICLE.
+
+Ten patients with advanced stage (TNM IIB-IVB) mycosis fungoides were treated with a combination chemotherapy program consisting of bleomycin and methotrexate weekly, doxorubicin every 3 weeks, and topical nitrogen mustard daily (BAM-M). Seven patients obtained histologically documented complete remissions ranging from 4 to 105+ months in duration. Median survival is 16.5+ months. Three patients in whom splenomegaly was detected during their staging evaluation underwent splenectomy. These three patients have had unmaintained disease-free survivals of 36+, 100+, and 105+ months. This study indicates that BAM-M is effective therapy for advanced stage mycosis fungoides and suggests that the therapeutic role of splenectomy should be evaluated further.
+
+Zakem MH; Davis BR; Adelstein DJ; Hines JD.
+
+

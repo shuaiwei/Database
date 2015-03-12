@@ -1,0 +1,16 @@
+
+87052059
+
+Circulation 8703; 74(6):1290-302
+
+Adult; Biopsy; Calcium Gluconate/PD; Comparative Study; Dobutamine/*PD; Endocardium/AN/DE/PA; Heart/*DE/PP; Heart Catheterization; Heart Failure, Congestive/*ME/PP; Hemodynamics/DE; Human; Male; Middle Age; Myocardium/*AN/PA; Radioligand Assay; Receptors, Adrenergic, Beta/*AN/DE; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..
+
+Assessment of the beta-adrenergic receptor pathway in the intact failing human heart: progressive receptor down-regulation and subsensitivity to agonist response.
+
+JOURNAL ARTICLE.
+
+We developed methods for identifying beta-adrenergic receptors in human right ventricular endomyocardial biopsy tissue with the radioligand (-)[125I]iodocyanopindolol (ICYP). Specific ICYP binding in a crude, high-yield membrane preparation derived from endomyocardial biopsy tissue was high (specificity greater than 90%), of high affinity (KD around 20 pM), saturable and stereospecific for the (-) vs the (+) isomer of isoproterenol. Subjects with mild-moderate and severe biventricular dysfunction had respective decreases in beta-adrenergic receptor density of 38.2% and 57.7% when normalization methods were averaged, with no significant differences in ICYP dissociation constant. A subgroup of subjects was subdivided by left ventricular ejection fraction (LVEF) into those with mild cardiac dysfunction (LVEF less than 0.50 greater than 0.40) and severe heart failure (LVEF less than 0.20) and given graded sequential infusions of dobutamine and calcium gluconate. Those with severe cardiac dysfunction had marked impairment of the dobutamine dP/dt and stroke work index response, whereas these responses to calcium did not differ in the two groups. These data indicate that in the intact human heart endomyocardial biopsy may be used for direct analysis of beta-adrenergic receptors, heart failure-associated myocardial beta-adrenergic down-regulation begins with mild-moderate ventricular dysfunction, reduction in myocardial beta-receptor density is related to degree of heart failure, and beta-receptor down-regulation is associated with pharmacologically specific impairment of the beta-agonist-mediated contractile response.
+
+Fowler MB; Laser JA; Hopkins GL; Minobe W; Bristow MR.
+
+

@@ -1,0 +1,16 @@
+
+87050918
+
+Burns Incl Therm Inj 8703; 12(7):461-4
+
+Animal; Burns/*PP; Cytochromes/ME; Male; Mitochondria, Liver/EN/*PH; Oxidative Phosphorylation; Rats; Rats, Inbred Strains; Succinate Dehydrogenase/ME.
+
+Functional changes in rat-liver mitochondria during the early phase of burn injury.
+
+JOURNAL ARTICLE.
+
+Using succinate as a substrate, the respiratory control ratios of liver mitochondria from burned male Sprague-Dawley rats with full skin thickness burns covering 20 per cent of the body surface area were increased at 15, 30, 45 and 60 min after burn, the peak being at 30 min post-burn. A sham group acted as control. In comparison with the sham group, the specific activity of succinic dehydrogenase was slightly decreased and the activities of cytochromes b and c + c were decreased significantly 30 min after burning. All the results suggest a lack of increased metabolic activity during the early phase of burn injury.
+
+Wang XM; Chen KM; Wang Y; Shi SP.
+
+

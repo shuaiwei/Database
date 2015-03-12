@@ -1,0 +1,16 @@
+
+87052050
+
+Circulation 8703; 74(6):1208-16
+
+Blood Flow Velocity; Comparative Study; Echocardiography/*/MT; Fetal Heart/*PH; Gestational Age; Heart Ventricle/PH; Human; Prospective Studies; Reference Values; Stroke Volume/*; Support, U.S. Gov't, P.H.S..
+
+Changes in intracardiac blood flow velocities and right and left ventricular stroke volumes with gestational age in the normal human fetus: a prospective Doppler echocardiographic study.
+
+JOURNAL ARTICLE.
+
+We used Doppler echocardiography to quantitate the changes in intracardiac blood flow velocities and right and left ventricular stroke volumes in 80 normal human fetuses from 19 to 40 weeks gestation. Blood flow velocity spectra across the aortic, pulmonary, tricuspid, and mitral valves were digitized to obtain peak velocities (m/sec) and flow velocity integrals. Aortic and pulmonary diameters were measured at valve level from two-dimensional echocardiographic images and cross-sectional area was calculated assuming a circular orifice. Ventricular stroke volume was calculated as the product of the cross-sectional area of a great vessel and the flow velocity integral through that vessel. The pulmonary arterial and aortic diameters increased linearly with gestational age (r = .82, r = .84), and pulmonary arterial diameter consistently exceeded aortic diameter. There was a positive relationship between stroke volume and gestational age: stroke volume increased exponentially from 0.7 ml at 20 weeks to 7.6 ml at 40 weeks for the right ventricle (r = .87) and from 0.7 ml at 20 weeks to 5.2 ml at 40 weeks for the left ventricle (r = .91). Similar results were obtained for right and left ventricular and combined cardiac outputs. In 44% of the fetuses it was possible to quantitate both right and left ventricular stroke volumes. There was a close correlation between right and left ventricular stroke volumes in these fetuses (r = .96) and right ventricular stroke volume exceeded left ventricular stroke volume by 28%.(ABSTRACT TRUNCATED AT 250 WORDS)
+
+Kenny JF; Plappert T; Doubilet P; Saltzman DH; Cartier M; Zollars L; Leatherman GF; St. John Sutton MG.
+
+

@@ -1,0 +1,16 @@
+
+87052074
+
+Circulation 8703; 74(6):1424-33
+
+Animal; Comparative Study; Coronary Circulation; Coronary Disease/DT/PP/RI; Dogs; Drug Screening; Female; Human; Male; Microspheres; Myocardial Infarction/*DT/PP/RI; Myocardium/PA; Necrosis; Recombinant Proteins/*TU; Superoxide Dismutase/*TU; Support, U.S. Gov't, P.H.S..
+
+Reduction in experimental infarct size by recombinant human superoxide dismutase: insights into the pathophysiology of reperfusion injury.
+
+JOURNAL ARTICLE.
+
+To determine the importance of reperfusion injury and the ability of the free-radical scavenger recombinant human superoxide dismutase (h-SOD) to prevent it, open-chest dogs underwent 90 min of proximal circumflex coronary artery occlusion, and only at the moment of reperfusion received either h-SOD (400,000 IU bolus into the left atrium followed by a 300,000 IU iv infusion over 1 hr) or saline. After 48 hr the surviving animals were killed and measurements were made of the risk region (by postmortem angiography) and infarct size (by gross pathology). All measurements were made by investigators blinded to treatment given, and the code was broken only at the end of the study. Hemodynamic variables and collateral flow during ischemia were similar in the two groups. Infarct size in control animals (n = 8) averaged 22.4 +/- 3.1% of the left ventricle and 52.2 +/- 7.1% of the risk region, compared with 13.3 +/- 0.8% of the left ventricle and 33.6 +/- 2.1% of the risk region in h-SOD-treated dogs (n = 8) (p less than .05). Infarcts in treated animals were not only smaller, but also exhibited a distinctive  patchiness,  suggesting protection along vascular distributions. Furthermore, analysis of the relationship between infarct size and collateral flow measured during ischemia in the two groups indicated that protection by h-SOD was greatest in animals with the lowest collateral flows. This study supports the concept that reperfusion of ischemic myocardium results in a separate component of cell damage, presumably linked to the generation of oxygen free radicals on reflow. Since the h-SOD preventable reperfusion component of injury was most pronounced in hearts with the most severe ischemia, scavenging of oxygen radicals at the time of reflow may offer a novel and particularly promising therapeutic approach for the protection of ischemic myocardium.
+
+Ambrosio G; Becker LC; Hutchins GM; Weisman HF; Weisfeldt ML.
+
+

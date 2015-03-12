@@ -1,0 +1,16 @@
+
+87050600
+
+Br J Urol 8703; 58(5):507-13
+
+Animal; Bladder/*DE; Cyproheptadine/PD; Dose-Response Relationship, Drug; Female; Human; In Vitro; Ketanserin/PD; Methysergide/PD; Muscle Contraction/DE; Muscle, Smooth/*DE; Serotonin/*PD; Serotonin Antagonists/PD; Support, Non-U.S. Gov't; Swine; Urethra/*DE.
+
+Influence of serotonin on lower urinary tract smooth muscle in vitro.
+
+JOURNAL ARTICLE.
+
+The influence of serotonin (5-hydroxytryptamine) on human detrusor and on pig detrusor, trigone, bladder neck and urethral smooth muscle was explored in a series of in vitro experiments. Serotonin evoked a dose-dependent and reversible contraction of the detrusor. The reverse response was triggered in trigone, bladder neck and urethral smooth muscle--a dose-dependent and reversible relaxation. The maximum amplitude of this relaxation was 85 +/- 15% of the relaxation produced by electrical nerve stimulation. The effect of serotonin was unaltered by blockade of ganglia, alpha- and beta-adrenergic receptors, cholinergic receptors and prostaglandin synthesis. The serotonin antagonists ketanserin, methysergide and cyproheptadine partly inhibited the effect of serotonin. The antagonism differed in potency on strips of different origin. The antagonists were ineffective or minimally effective in blocking responses to nerve stimulation. The effect of serotonin was probably mediated by specific serotonin receptors different from the serotonin-S2-receptors predominating in vascular smooth muscle. Serotonin is a potential neurotransmitter in lower urinary tract smooth muscle, but its importance in micturition physiology and pathophysiology is unknown.
+
+Klarskov P; Horby-Petersen J.
+
+

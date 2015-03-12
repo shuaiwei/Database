@@ -1,0 +1,16 @@
+
+87052747
+
+Contact Dermatitis 8703; 15(3):143-51
+
+Animal; Dermatitis, Contact/*ET/PA; Epidermis/PA; Female; Guinea Pigs; Irritants/*; Solvents/TO; Support, Non-U.S. Gov't.
+
+Animal model for assessment of skin irritancy.
+
+JOURNAL ARTICLE.
+
+Irritant skin reactions from repeated open applications of low concentrations of sodium lauryl sulphate (SLS) have been studied macroscopically and microscopically in guinea pigs. After 3 applications daily for 3 days, 2% SLS aqueous solutions gave a naked eye assessment, increase in epidermal thickness and total dermal inflammatory cell response, which was greater than for a 1% SLS solution. The dermal inflammatory cell response was mainly mononuclear (lymphocytic) in nature. With the SLS reactions as control, various organic solvents were studied and ranked against the SLS reactions and internally. Trichlorethylene was the most irritant solvent, ranking as high as 2% SLS. Other chlorinated hydrocarbons and aromatic hydrocarbons tested caused irritant reactions. The alcohols and acetone gave no reaction. White spirit was as irritant as trichlorethylene. Thinners were less irritant, around the level of the 1% SLS control reaction. The 4-day experimental design is a convenient and suitable animal model for screening irritant potential, and provides information relevant to the pathogenesis of irritant contact reactions.
+
+Anderson C; Sundberg K; Groth O.
+
+

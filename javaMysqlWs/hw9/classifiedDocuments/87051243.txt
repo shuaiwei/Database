@@ -1,0 +1,16 @@
+
+87051243
+
+Cancer 8703; 58(12):2589-93
+
+Adult; Aged; Antineoplastic Agents, Combined/*TU; Bone Neoplasms/*SC; Breast Neoplasms/*DT; Female; Fractures/ET; Human; Middle Age; Spine; Time Factors.
+
+Clinical course of breast cancer patients with osseous metastasis treated with combination chemotherapy.
+
+JOURNAL ARTICLE.
+
+Between July 1973 and December 1979, 1171 patients with metastatic breast cancer were treated with doxorubicin-containing chemotherapy. Of those patients, 195 had osseous metastases only. Upon initial diagnosis, 48% had osteolytic metastases; 13% had osteoblastic metastases; 38% had mixed metastases; and 1% had diffuse osteoporosis without any obvious bone destruction. The most common sites of involvement were the dorsal spine (62%), lumbosacral spine (72%), and pelvis (79%). Objective response to chemotherapy was observed in 59% of patients; complete responses were noted in 7%, and partial responses in 52%. The median survival was 28 months (range, 1-118 months). The median time lapse between the start of chemotherapy and disease progression was 14 months (range, 1-109 months). In 32 patients who responded to the treatment, chemotherapy was discontinued after 2 years, and their median duration of continued remission at 39 and 75 months after the completion of therapy. The incidence of pathological fractures was 57%; the most common sites were the spine, which sustained compression fractures, and the ribs. The incidences of hypercalcemia and spinal cord compression due to metastases were 19% and 10%, respectively.
+
+Scheid V; Buzdar AU; Smith TL; Hortobagyi GN.
+
+

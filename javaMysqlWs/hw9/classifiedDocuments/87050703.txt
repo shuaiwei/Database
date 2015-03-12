@@ -1,0 +1,16 @@
+
+87050703
+
+Brain 8703; 109 ( Pt 5):885-96
+
+Animal; Axoplasmic Flow/*DE; Doxorubicin/*PD; Fucose/ME; Male; Methionine/ME; Neurons, Afferent/DE; Peripheral Nerves/*DE; Rats; Rats, Inbred Strains; Sciatic Nerve/DE; Support, Non-U.S. Gov't.
+
+The effect of doxorubicin on slow and fast components of the axonal transport system in rats.
+
+JOURNAL ARTICLE.
+
+The study was designed to investigate the changes in axonal transport that result from disturbances in protein synthesis. Doxorubicin, an antineoplastic drug which interferes with the function of DNA, has a selective effect on peripheral sensory nerves because of the high vascular permeability in the dorsal root ganglia. After the intravenous administration of a moderate dose (4 mg/kg) to male Wistar rats, the transport of slow component a (SCa) was found to be retarded, transport velocity being decreased by 17% (0.85 +/- 0.06 mm/day vs 1.03 +/- 0.06 mm/day in controls). The transport kinetics of the fast anterograde and retrograde components (aFC and rFC) were unchanged after the administration of a dose of 6 mg/kg, although the relative amount of aFC was decreased by 27% (3.2 +/- 0.9% vs 4.4 +/- 1.1% in controls). It is suggested that the neuronopathy induced by doxorubicin is mediated by changes in axonal transport.
+
+Sidenius P.
+
+

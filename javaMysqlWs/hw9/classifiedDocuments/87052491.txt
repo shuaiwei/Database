@@ -1,0 +1,16 @@
+
+87052491
+
+Clin Pharmacol Ther 8703; 40(6):650-5
+
+Adult; Blood Pressure/DE; Debrisoquin/*ME/PD; Drug Interactions; Guanidines/BL/*ME; Human; Isoquinolines/*ME; Kinetics; Liver/DE/*ME; Liver Cirrhosis/*ME; Male; Metabolic Clearance Rate/DE; Middle Age; Phenotype; Pulse/DE; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..
+
+Effect of cirrhosis and debrisoquin phenotype on the disposition and effects of pinacidil.
+
+JOURNAL ARTICLE.
+
+Pinacidil is an investigational vasodilator currently undergoing clinical trials as an antihypertensive agent. It is metabolized in humans to pinacidil N-oxide. To determine whether pinacidil's metabolism or effects were influenced by either liver disease or the subject's debrisoquin phenotype, eight patients with chronic stable cirrhosis and 13 healthy subjects were studied. Seven of the healthy volunteers were extensive metabolizers of debrisoquin, whereas six were of the poor metabolizer phenotype. Neither the clearance of pinacidil nor the production of the N-oxide was altered by the subjects' debrisoquin phenotype. Cirrhosis produced a 50% reduction in pinacidil's clearance (20.7 +/- 1.4 vs. 42.1 +/- 5.1 L/hr; P less than 0.0005) and a prolongation in the elimination t1/2 from 3.9 +/- 0.3 to 6.1 +/- 0.6 hours (P less than 0.01). Less pinacidil was metabolized to the N-oxide metabolite in the patients with cirrhosis than in the normal individuals. Thus pinacidil's metabolism and clearance are reduced in patients with cirrhosis but are independent of debrisoquin phenotype.
+
+Shaheen O; Patel J; Avant GR; Hamilton M; Wood AJ.
+
+

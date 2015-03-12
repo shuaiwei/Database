@@ -1,0 +1,16 @@
+
+87050056
+
+Blood 8703; 68(6):1376-83
+
+Erythrocyte Deformability/*; Erythrocyte Membrane/*PH/UL; Erythrocytes/DE; Heinz Bodies/*/UL; Human; Membrane Proteins/BL; Microscopy, Electron; Molecular Weight; Oxidation-Reduction; Phenylhydrazines/PD; Support, Non-U.S. Gov't; Support, U.S. Gov't, P.H.S..
+
+Quantitative relationship between Heinz body formation and red blood cell deformability.
+
+JOURNAL ARTICLE.
+
+The ultimate cause of destruction of red blood cells (RBCs) after oxidative damage with Heinz body formation is not well understood. We correlated the changes in RBC morphology and membrane protein composition after oxidant treatment with the alterations in deformability of whole cells and cell membranes. The incubation of RBCs with phenylhydrazine concentrations of 0.3 to 100 mg/dL at 37 degrees C for one hour led to a dose-dependent formation of Heinz bodies, ranging from isolated Heinz bodies at 1 mg/dL to a confluent coating of the inner membrane surface at 100 mg/dL phenylhydrazine. Sodium dodecyl sulfate-polyacrylamide gel electrophoresis revealed the presence of a large quantity of hemoglobin bound to the ghost membrane of treated RBCs. Electrophoresis with and without dithiothreitol indicated that disulfide bridges are abundant between hemoglobin molecules and are also present among membrane proteins but are not the major bond between hemoglobin and membrane. Changes of spectrin, ankyrin, band 3, and band 6 and the appearance of a 260,000-dalton complex were also observed. With phenylhydrazine concentrations below 30 mg/dL, even in the presence of multiple Heinz bodies, the RBC deformability measured by filtration through 2.6-, 4.5-, and 6.8-microns pores and the membrane deformability determined by a filter aspiration technique were not altered. With 100 mg/dL phenylhydrazine, when the entire membrane was coated with Heinz bodies, RBC filterability and membrane deformability were drastically reduced. These results indicate that oxidative damage of RBCs with discrete Heinz body formation causes focal membrane rigidification but does not affect the global cellular deformability until the Heinz bodies nearly cover the entire cell endoface.
+
+Reinhart WH; Sung LP; Chien S.
+
+

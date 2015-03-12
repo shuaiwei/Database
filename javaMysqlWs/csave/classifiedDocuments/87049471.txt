@@ -1,0 +1,16 @@
+
+87049471
+
+Br J Anaesth 8703; 58(11):1303-7
+
+Adult; Aged; Anesthesia, General; Cholinesterase Inhibitors/*ME; Female; Galanthamine/BL/*ME/UR; Human; Kinetics; Middle Age.
+
+Pharmacokinetics of galanthamine (a long-acting anticholinesterase drug) in anaesthetized patients.
+
+JOURNAL ARTICLE.
+
+The pharmacokinetics of the long-acting anticholinesterase drug, galanthamine, were investigated in eight patients. After i.v. injection of 0.3 mg kg-1, the decrease in the serum concentration of galanthamine followed a biexponential curve. The serum concentration decreased rapidly from 543 +/- 47 ng ml-1 to 128 +/- 14 ng ml-1 between 2 and 30 min with a T1/2 alpha of 6.42 +/- 2.15 min, and then declined more slowly with a T1/2 beta of 264 +/- 28 min. Total serum clearance of galanthamine amounted to 5.37 +/- 0.87 ml min-1 kg-1, and the renal clearance was 1.36 +/- 0.10 ml min-1 kg-1. The cumulative urinary excretion of galanthamine between 0 and 48 h after injection amounted to 28.0 +/- 5.4% of the administered dose. The biliary excretion of galanthamine during 24 h amounted to 0.2 +/- 0.1% of the dose. There was no evidence of glucuronide or sulphate conjugation of galanthamine.
+
+Westra P; van Thiel MJ; Vermeer GA; Soeterbroek AM; Scaf AH; Claessens HA.
+
+

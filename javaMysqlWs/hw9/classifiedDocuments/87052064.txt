@@ -1,0 +1,17 @@
+
+87052064
+
+Circulation 8703; 74(6):1334-45
+
+Adolescence; Adult; Arrhythmia/*DI; Child; Comparative Study; Computers; Electrocardiography/IS/*MT; Electrodes; Female; Heart Ventricle/PP; Human; Long QT Syndrome/*DI; Male; Middle Age; Vectorcardiography/MT.
+
+Mapping of body surface potentials in patients with the idiopathic long QT syndrome.
+
+JOURNAL ARTICLE.
+
+Body surface potential maps were recorded from 140 chest leads in 25 patients affected by the idiopathic long QT syndrome (LQTS) and in 25 healthy control subjects matched for age and sex. Potential time integrals of the QRST and ST-T intervals were calculated at each lead point and displayed as isointegral (ISOI) maps. The main abnormalities noted on the QRST and ST-T ISOI maps were one area of negative values larger than normal in the right anterior and inferior thorax and a complex multipeak distribution of the integral values. At least one abnormality was present in 19 (76%) of the patients with LQTS and four (16%) of the control subjects (p less than .001). Each ISOI map was also represented as a weighted sum of nine fundamental components (eigenvectors) to detect and quantitate the nondipolar content. The percent contribution of the nondipolar eigenvectors (all eigenvectors beyond the third) was significantly higher in the LQTS group than in the control group (p less than .005). Specifically, an abnormally high nondipolar content on the QRST ISOI maps was observed much more frequently for patients with LQTS than for control subjects (nine or 36% vs one or 4%), and this was also true on the ST-T ISOI maps (14 or 56% vs one or 4%). No correlation was found between the major abnormalities on body surface maps and syncopal episodes. However, the high prevalence (76%) of these alterations among the patients with LQTS and their infrequent occurrence in the control population strongly suggests that they may be useful markers for the diagnosis of atypical cases. The prominent electronegative area on the anterior thorax can be related to delayed repolarization of a portion of the anterior wall of the heart. This finding is in agreement with the hypothesis that lower than normal right cardiac sympathetic activity is the main pathogenetic mechanism of LQTS. Multipeak distribution and high nondipolar content suggest regional electrical disparities in the ventricular recovery process. This may in part account for the
+ high susceptibility of patients with LQTS to malignant arrhythmias.
+
+De Ambroggi L; Bertoni T; Locati E; Stramba-Badiale M; Schwartz PJ.
+
+
